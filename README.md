@@ -1,4 +1,3 @@
-GitBook Example
-=======
+# Twilight Hell
 
-Welcome in your GitBook!
+A tabletop RPG setting and rules guide.
