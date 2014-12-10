@@ -1,0 +1,81 @@
+# Darkpine
+The woods of Darkpine are full of evil, the light of the sun never reaching the ground. The paths in the forest are safe relative to the certain death of the trees, but even so, creatures born of nightmare stalk freely. Travel is necessary to keep the rest of Danjukk supplied, and while trips can be relatively uneventful, travellers know to leave a bullet spare, just in case.
+
+![Darkpine Map](danjukk_darkpine.png)
+
+The world of Danjukk is vast, yet geographically irregular. Darkpine forest is the only real source of timber for the plateau cities, so named for their perches atop towering mesas.
+
+### Daily Life
+There are three things people need to worry about living in this world:
+
+1. Mundane problems
+ - Sustenance
+ - Not getting killed by bandits
+ - Finding someone to have kids with
+2. The Wretched
+ - Sleeping
+ - Going insane
+ - Fear
+3. Undead
+ - Walking corpses of family, friends.
+ - Wraiths in the trees
+
+## Northwestern Forest
+
+### Gateway
+Town straddling the pass between the Darkpine forest and Danjukk proper. The Wayright family have become rich and prosperous by taxing trade to the Mesas.
+
+### Pinewood
+A wayfaring town that only exists to keep the path clear to Fenriddle. Subsists on lumber and travellers.
+
+### Fenriddle
+The biggest of the three four cities in Darkpine, it's expansion only halted by the fens for which it is named.
+
+### Vale
+
+## Southwestern Forest
+
+### Yva
+
+### Shades
+Source of the highest quality hardwood in Darkpine, and also the most dangerous to live in due to the unusually high quantities of shades that inhabit the area.
+
+### Woodsword
+
+### Mersis
+Pronounced 'Mercy', this town is location to the mechanical lumbermill that services the wood from Shades and Ashfall, with saws specially tempered to deal with the different fibre densities and grains that they exhibit.
+
+## Central Fen
+
+### Veron
+
+### Cartheim
+Formally a rather prosperous trading town between Fenriddle and Endrisham, banditry and the consequent lack of traffic caused it's slow end. Now the town is little more than a simple wayfaring town, subsisting on it's wood trade and the occasional trade between Mersis and Stynik.
+
+### Marshvale
+
+### Ulrich
+
+## Northeastern Forest
+
+### Zinn
+
+### Stynik
+Home to the Stynik Ore Refinery, commerce primarily driven by stone and metalworking.
+
+## Eastern Ash Forest
+
+### Rockbury
+Mining town, principal exports: Stone, Coal, Ore.
+
+### Ashfall
+A bleak town so named for the grey pallor to the vegetation and surrounds. Primary exports being stone and grit, along with the grey wood from the silverpine trees.
+
+### Greymore
+
+## Southeastern Forest
+
+### Swaynin
+
+### Endrisham
+
