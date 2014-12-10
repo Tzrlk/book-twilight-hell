@@ -20,4 +20,5 @@
    * [Eridian](setting/eridian.md)
 * [Adventures](adventures/README)
    * [A Taste of Terror](adventures/a_taste_of_terror.md)
+* [Legacy](legacy/README.md)
 
