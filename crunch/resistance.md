@@ -1,9 +1,8 @@
 # Resistance
 
-## Range
-
+## Distance
 |    | Adjective | Physical | Projectile | Ballistic |
-| -  | --------- | -------- | ---------- | --------- |
+| -- | --------- | -------- | ---------- | --------- |
 | 0  | Touch     | 10cm     | 50cm       | 500m      |
 | 1  | Reach     | 50cm     | 1m         | 1km       |
 | 2  | Melee     | 1m       | 5m         | 5km       |
@@ -15,3 +14,18 @@
 | 8  | Extended  | 100m     | 5km        | 5Mm       |
 | 9  | Extreme   | 200m     | 10km       | 10Mm      |
 | 10 | Insane    | 500m     | 50km       | 50Mm      |
+
+## Time
+|    | Adjective  |
+| -- | ---------- |
+| 0  | Instant    |
+| 1  | Second     |
+| 2  | Minute     |
+| 3  | Hour       |
+| 4  | Day        |
+| 5  | Week       |
+| 6  | Month      |
+| 7  | Year       |
+| 8  | Decade     |
+| 9  | Century    |
+| 10 | Millennium |

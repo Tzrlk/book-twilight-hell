@@ -8,7 +8,7 @@
    * [Resistance](crunch/resistance.md)
 * [Crunch](crunch/intro.md)
    * [Character Creation](crunch/character-creation.md)
-   * [Abilities](crunch/abilities)
+   * [Abilities](crunch/abilities.md)
 * [Setting](setting/README.md)
 * [Domains](setting/domains.md)
    * [Metropolis](setting/metropolis.md)
