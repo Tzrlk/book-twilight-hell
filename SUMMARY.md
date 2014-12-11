@@ -20,5 +20,6 @@
    * [Eridian](setting/eridian.md)
 * [Adventures](adventures/README)
    * [A Taste of Terror](adventures/a_taste_of_terror.md)
+   * [House in the Forest](adventures/house_in_the_forest.md)
 * [Legacy](legacy/README.md)
 
