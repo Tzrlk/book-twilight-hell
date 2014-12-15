@@ -25,6 +25,6 @@ _Tropes: [The Dragon](http://tvtropes.org/pmwiki/pmwiki.php/Main/TheDragon), [Th
 ...
 _Tropes: [Big Bad](http://tvtropes.org/pmwiki/pmwiki.php/Main/BigBad), [Big Good](http://tvtropes.org/pmwiki/pmwiki.php/Main/BigGood)_
 
-#### 6: "???"
+## 6: "???"
 ...
 _Tropes: [Bigger Bad](http://tvtropes.org/pmwiki/pmwiki.php/Main/BiggerBad)_

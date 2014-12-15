@@ -5,6 +5,7 @@
    * [Clarity](crunch/clarity.md)
    * [Fear](crunch/fear.md)
    * [Exhaustion](crunch/exhaustion.md)
+   * [Madness](crunch/madness.md)
    * [Resistance](crunch/resistance.md)
 * [Crunch](crunch/intro.md)
    * [Character Creation](crunch/character-creation.md)
