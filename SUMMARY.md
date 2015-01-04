@@ -10,6 +10,7 @@
        * [Exhaustion](concepts/stress/exhaustion.md)
        * [Madness](concepts/stress/madness.md)
        * [Pain](concepts/stress/pain.md)
+   * [Magic](concepts/magic.md)
 * [Crunch](crunch/intro.md)
    * [Character Creation](crunch/character-creation.md)
    * [Abilities](crunch/abilities.md)
