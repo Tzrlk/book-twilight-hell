@@ -4,6 +4,7 @@
 * [Concepts](concepts/intro.md)
    * [Clarity](concepts/clarity.md)
    * [Resistance](concepts/resistance.md)
+   * [Attributes](concepts/attributes.md)
    * [Stress](concepts/stress/intro.md)
       * [Fear](concepts/stress/fear.md)
       * [Exhaustion](concepts/stress/exhaustion.md)
@@ -25,4 +26,3 @@
    * [A Taste of Terror](adventures/a_taste_of_terror.md)
    * [House in the Forest](adventures/house_in_the_forest.md)
 * [Legacy](legacy/README.md)
-
