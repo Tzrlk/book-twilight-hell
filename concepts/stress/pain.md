@@ -1,5 +1,0 @@
-# Pain
-
-## Accumulation
-
-## Recovery

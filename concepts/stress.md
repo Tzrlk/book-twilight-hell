@@ -1,5 +1,36 @@
 # Stress and Consequences
 
+## Stress
+
+Accumulated stress on the Madness track represents a temporary disturbance to
+the Character's ego. That being the case, all points of stress are removed at
+the conclusion of a Scene.
+
+## Consequences
+
+### Minor
+
+As with stress, Minor Consequences accrued during a Scene are removed at its
+conclusion. However, due to the mental exhaustion of regaining ones ego, the
+Character takes a hit to their Exhaustion stress track for the next Scene
+equal to the number of minor Consequences removed this way.
+
+### Moderate
+
+Moderate consequences cannot be as easily shaken-off than Minor ones. Some
+form of treatment is required to remove them, and even so, they aren't
+technically removed. During the course of treatment, the Character's worldview
+ is stabilised by incorporating the Consequence into their personality to a
+greater or lesser degree. Mechanically, this means that an existing Aspect
+must be modified to include some part of the Consequence. Once this has been
+performed, the Moderate Consequence is downgraded to a Minor one.
+
+### Severe
+
+Even harder to remove than Moderate Consequences, Severe ones can be
+downgraded to Moderate with twice as much effort as converting a Moderate to a
+Minor.
+
 ## Accumulation
 
 1. Domination
@@ -7,7 +38,19 @@
 
 ### Domination
 
-If the highest rolls during a Challenge belong to a particular dice group, the Character automatically gains a point of stress on the relevant stress track at the end of the Challenge.
+If the highest rolls during a Challenge belong to a particular dice group, the
+Character automatically gains a point of stress on the relevant stress track
+at the end of the Challenge.
+
+### Damage
+
+Some types of magic have the ability to drive someone insane by shattering the
+protective anima of their ego. Such magical effects work as ordinary combat
+attacks that target the relevant stress track.
+
+Other types of magic have a cost to them, and said cost is paid in stress on
+their linked stress track. Though, this can frequently be mitigated by
+invoking one of their pre-existing or acquired Consequences.
 
 ## Recovery
 
@@ -16,11 +59,24 @@ If the highest rolls during a Challenge belong to a particular dice group, the C
 
 ## Tagging Consequences
 
-Consequences are also Aspects, and as such, follow the same rules of invocation. If a Consequence has not yet been tagged during a Challenge, it can be tagged to add a die of the same type as the Consequence to the defense pool. As with Aspect tagging, the Consequence must make sense as something that would aid defense in the context of the Challenge taking place.
+Consequences are also Aspects, and as such, follow the same rules of
+invocation. If a Consequence has not yet been tagged during a Challenge, it
+can be tagged to add a die of the same type as the Consequence to the defense
+pool. As with Aspect tagging, the Consequence must make sense as something
+that would aid defense in the context of the Challenge taking place.
 
-For example, a Character was recently assaulted with a wrench, and took a Minor Consequence to their Pain track to avoid being Taken Out. They are presented with a Challenge vs. their Madness to avoid being mind-controlled. Defending against an attack pool of 3 Madness and 1 Pain, They take their Clarity (3) and their Sanity (2), but to gain an edge, they tag their "headache" to get a Pain die to add to the pool.
+For example, a Character was recently assaulted with a wrench, and took a
+Minor Consequence to their Pain track to avoid being Taken Out. They are
+presented with a Challenge vs. their Madness to avoid being mind-controlled.
+Defending against an attack pool of 3 Madness and 1 Pain, They take their
+Clarity (3) and their Sanity (2), but to gain an edge, they tag their
+"headache" to get a Pain die to add to the pool.
 
-It is important to note in the previous example, that since they added a Pain die to their defense pool, there are a total of 2 Pain die being rolled in the Challenge. If both Pain dice roll 6, and all other pools (Madness, Discipline) roll individual totals of 11 or less, Pain will Dominate, and the Character will automatically take a point of Stress to their Pain track.
+It is important to note in the previous example, that since they added a Pain
+die to their defense pool, there are a total of 2 Pain die being rolled in the
+Challenge. If both Pain dice roll 6, and all other pools (Madness, Discipline)
+roll individual totals of 11 or less, Pain will Dominate, and the Character
+will automatically take a point of Stress to their Pain track.
 
 ## Types
 
@@ -35,18 +91,71 @@ There are four types of Stress, one for each of a character's attributes.
 
 ### Exhaustion
 
-All people get tired at some stage. They might never sleep, but they always get tired. As a story progresses, character will become exhausted with the constant physical and mental stress of their activities. As they get more exhausted, things get progressively harder.
+All people get tired at some stage. They might never sleep, but they always
+get tired. As a story progresses, character will become exhausted with the
+constant physical and mental stress of their activities. As they get more
+exhausted, things get progressively harder.
 
-Exhaustion is represented in play as a Stress track. The amount of boxes is equal to the Character's Clarity + Endurance.
+Exhaustion is represented in play as a Stress track. The amount of boxes is
+equal to the Character's Clarity + Endurance.
 
 #### Increased Effort
 
-For a temporary boost, Exhaustion dice can be added to the player's side of the Challenge pool, thereby gaining an advantage. However, this increases the risk of Exhaustion dominating the Challenge. In addition, each dice added above the Character's Clarity increases their Exhaustion score by one.
+For a temporary boost, Exhaustion dice can be added to the player's side of
+the Challenge pool, thereby gaining an advantage. However, this increases the
+risk of Exhaustion dominating the Challenge. In addition, each dice added
+above the Character's Clarity increases their Exhaustion score by one.
 
 #### Taking Damage
 
-As mentioned in the other stress track descriptions, Minor Consequences take a toll when they disappear at the conclusion of a Scene. For each stress group, the Character takes a hit to their Exhaustion track for the next Scene of power equal to the number of Minor Consequences removed. This includes Minor Consequences from Exhaustion.
+As mentioned in the other stress track descriptions, Minor Consequences take a
+toll when they disappear at the conclusion of a Scene. For each stress group,
+the Character takes a hit to their Exhaustion track for the next Scene of
+power equal to the number of Minor Consequences removed. This includes Minor
+Consequences from Exhaustion.
 
 #### Recovery
 
-A character can rest and sleep, removing an appropriate number of exhaustion points to the depth and length of the rest. Of course, if challenges occur during ones sleep, Exhaustion may need to be accumulated to survive them. Making it through the night may be a challenge in itself.
+A character can rest and sleep, removing an appropriate number of exhaustion
+points to the depth and length of the rest. Of course, if challenges occur
+during ones sleep, Exhaustion may need to be accumulated to survive them.
+Making it through the night may be a challenge in itself.
+
+### Fear
+
+Franklin D. Roosevelt said at his inaugural speech a sentence that seems
+perfectly apt to highlight the danger of Fear in the Twilight hell:
+
+> “So, first of all, let me assert my firm belief that the only thing we have
+> to fear is fear itself—nameless, unreasoning, unjustified terror which
+> paralyzes needed efforts to convert retreat into advance.”
+
+The very fabric of reality is distorted by the Fear of those who dwell within
+it. Where the Stability of a Domain is weak, the effects of Fear, and the
+things that can manifest from it are stronger and more terrible.
+
+### Madness
+
+The Twilight Hell is contradictary at the best of times. The minds trapped
+within its clutches struggle to make what sense they can of it. The slow
+erosion of ones' worldview causes a spiral of madness that ends in nothing
+good.
+
+#### Contradiction
+
+Aspects are what keep a character safe, and provide consistency in a place
+where there is none. By declining a Compel on one of their Aspects, a
+contradiction in their worldview is created, and so they take a point of
+stress to their Madness track.
+
+#### Recovery
+
+Recovering one's sanity and shoring up the Ego requires rest and some kind of
+re-framing. This re-framing can be pursued through careful therapy, radical
+catharsis, drug-fueled spirit quests, or a combination of all three.
+
+That being said, since there is magic available to directly attack the
+underpinnings of a Character's sanity, there are also magical effects, and
+even some forms of technology, that can mitigate or even remove accrued stress
+and consequences.
+
