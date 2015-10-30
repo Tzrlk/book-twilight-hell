@@ -1,3 +1,21 @@
-# Twilight Hell
+= Twilight Hell
 
 A tabletop RPG setting and rules guide.
+
+== Sections
+
+.link:concepts/README.adoc[Concepts]
+Fundamentals for understanding how The Twilight Hell is put together.
+
+.link:crunch/README.adoc[Crunch]
+Rules and mechanics for gameplay.
+
+.link:setting/README.adoc[Setting]
+Setting information for the various Domains and Districts.
+
+.link:adventures/README.adoc[Adventures]
+Some sample adventures to play with your friends.
+
+.link:legacy/README.adoc[Legacy]
+Setting and rules information from before The Twilight Hell was a FATE game.
+

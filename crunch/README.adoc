@@ -1,1 +1,10 @@
-# Crunch
+= Crunch
+
+== Sections
+
+.link:magic/README.adoc[Magic]
+The mechanical operations and usage of magic.
+
+.link:creation.adoc[Character Creation]
+A step-by-step guide on how to build a character for a Twilight Hell game.
+

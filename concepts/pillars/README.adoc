@@ -1,0 +1,16 @@
+= The Four Pillars
+
+== Sections
+
+.link:exhaustion.adoc[Exhaustion]
+When you can't go on any further.
+
+.link:pain.adoc[Pain]
+When everything hurts.
+
+.link:fear.adoc[Fear]
+When there's more to fear than fear itself.
+
+.link:madness[Madness]
+When you can't even trust your own thoughts.
+

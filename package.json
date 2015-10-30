@@ -1,0 +1,25 @@
+{
+  "name": "book-twilight-hell",
+  "version": "1.0.0",
+  "description": "An RPG sourcebook based off FATE.",
+  "main": "SUMMARY.adoc",
+  "dependencies": {
+    "gitbook": "^2.5.1",
+    "gitbook-plugin-plantuml": "0.0.15",
+    "gitbook-theme-clarity": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gitbook test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tzrlk/book-twilight-hell.git"
+  },
+  "author": "Peter Cummuskey <peterc@aetheric.co.nz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tzrlk/book-twilight-hell/issues"
+  },
+  "homepage": "https://github.com/Tzrlk/book-twilight-hell#readme"
+}
