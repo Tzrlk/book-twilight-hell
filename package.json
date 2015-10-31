@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Tzrlk/book-twilight-hell#readme",
   "dependencies": {
-    "gitbook": "^2.5.1",
     "gitbook-theme-clarity": "0.0.2"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^1.0.0"
   }
 }
