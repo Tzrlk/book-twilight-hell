@@ -4,7 +4,7 @@
   "description": "An RPG sourcebook based off FATE.",
   "main": "SUMMARY.adoc",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node node_modules/gitbook-cli/bin/gitbook.js build"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Tzrlk/book-twilight-hell#readme",
   "dependencies": {
-    "gitbook-theme-clarity": "0.0.2"
   },
   "devDependencies": {
     "gitbook-cli": "^1.0.0"
