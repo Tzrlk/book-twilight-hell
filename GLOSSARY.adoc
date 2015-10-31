@@ -1,8 +1,0 @@
-= Glossary
-
-== Aspect
-Something that describes what something is.
-
-== Stunt
-Something that your character can do.
-

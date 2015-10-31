@@ -1,15 +1,3 @@
 {
-	"gitbook": "2.x.x",
-	"title": "The Twilight Hell",
-	"description": "An RPG source book based off FATE.",
-	"language": "en",
-	"direction": "ltr",
-	"theme": "clarity",
-	"styles": {
-	},
-	"plugins": [
-		"plantuml"
-	],
-	"pluginsConfig": {
-	}
+	"theme": "node_modules/gitbook-theme-clarity/lib"
 }
