@@ -1,15 +1,15 @@
-# Dustburn
+= Dustburn
 
-![Central Map](danjukk_central.jpg)
+image::setting/danjukk/danjukk_central.jpg[Central Map]
 
-## Trinity
+== Trinity
 
-### Vedem
+=== Vedem
 
-### Gaasheim
+=== Gaasheim
 
-### Yvoras
+=== Yvoras
 
-## Sun's Cradle
+== Sun's Cradle
 
-## Bone Valley
+== Bone Valley

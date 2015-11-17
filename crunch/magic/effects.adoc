@@ -1,0 +1,10 @@
+= Effects
+
+== Difficulty
+
+Like any other action, magical actions have a difficulty to succeed against.
+
+One of the only differences is that the GM takes the difficulty of the
+particuar set of effects and variables desired, and rolls the fudge dice to
+determine the final adjusted value. Magic is somewhat unreliable.
+

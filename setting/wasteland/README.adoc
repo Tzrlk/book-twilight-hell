@@ -1,0 +1,44 @@
+= Wasteland
+
+Home to the Pillar of Madness, the waste spans in manner from being a very
+literal collection of broken floating bits of seemingly ancient structures, to
+multidimensional mazes that change based on what you're thinking.
+
+It's certainly got a post-apocalyptic vibe, but no-one can tell you what could
+have happened. Life was just always like this, or whatever caused the place to
+be like this also wiped or supressed their memories of it.
+
+=== Districts
+
+The apparent topographical relationship between Districts of the Domain is
+radically different from all the other Domains, in that instead of them
+appearing as a contiguous landscape, each District is superimposed on one
+another, with District links essentially manifesting as gateways or portals of
+varying subtlety.
+
+=== Daily Life
+
+The Domain is reasonably hostile, second only to Eridian in its deadliness.
+Any people even vaguely above Clarity 0 become some form of survivor that
+desperately fights off the denizens of the place before they run out of
+supplies. Not a picture of hope or sustainability.
+
+=== The Pillar of Madness
+
+Visible from anywhere in the Domain, the pillar manifests itself in different
+ways depending on what district its viewed from.
+
+== The Shattered City
+
+An urban sprawl that appears like a mid-country version of whatever the person
+is used-to, broken into chunks of various sizes, and gently curving up on all
+sides. Sometimes planes of chunks are on bizarre angles where you can
+effectively have an upside-down city above you that may or may not re-orient
+gravity if you manage to get to it.
+
+=== The Alabaster Cathedral
+
+This is the manifestation of the Pillar of Madness in this District. No matter
+what the city appears to look like, the Cathedral always looks like a gothic
+masterpiece carved from a single collossal chunk of alabaster and/or bone.
+

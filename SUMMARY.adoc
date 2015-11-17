@@ -1,4 +1,4 @@
-# Summary
+= Summary
 
 . link:README.adoc[Introduction]
 . link:concepts/README.adoc[Concepts]

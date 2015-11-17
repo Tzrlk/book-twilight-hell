@@ -1,0 +1,25 @@
+strict graph {
+	Gateway -- Pinewood;
+	Pinewood -- Fenriddle;
+	Fenriddle -- Vale;
+	Fenriddle -- Veron;
+	Fenriddle -- Marshvale;
+	Vale -- Yva;
+	Yva -- Veron;
+	Yva -- Woodsword;
+	Veron -- Mersis;
+	Mersis -- Woodsword;
+	Mersis -- Swaynin;
+	Mersis -- Cartheim;
+	Swaynin -- Endrisham;
+	Swaynin -- Ashfall;
+	Endrisham -- Greymore;
+	Greymore -- Ashfall;
+	Ashfall -- Rockbury;
+	Rockbury -- Ulrich;
+	Rockbury -- Stynik;
+	Ulrich -- Cartheim;
+	Ulrich -- Marshvale;
+	Marshvale -- Zinn;
+	Zinn -- Stynik;
+}

@@ -1,0 +1,10 @@
+= Difficulty
+
+Every action has a difficulty target. This is calculated by determining the
+base difficulty of the action, and applying any immediate modifiers (usually
+handled by aspects). If more than one modifier applies to the difficulty,
+treat it like stress, in that if a value would overlap with another, increase
+it by one until it doesn't. You only take the highest value, not the total.
+
+The same method applies to multiple actions.
+
