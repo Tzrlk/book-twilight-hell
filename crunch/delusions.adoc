@@ -1,0 +1,29 @@
+= Delusions
+
+Delusions allow a character to do things outside the normal bounds of Aspect
+invocation. While this can be extremely useful and powerful in the correct
+situations, it requires that a portion of ones ego to be subsumed by its
+existence. Frequently this trade-off is very beneficial, and can be performed
+in a number of ways, but all involving magic usage of some description.
+
+== Function
+
+The Delusion has two components, an Aspect, and a need. Like regular Aspects,
+this one provides automatic bonuses to appropriate Challenges, but it cannot
+be invoked to add extra bonuses, or reroll a Challenge. However, the Aspect
+can be invoked to perform an appropriate action that wouldn't normally be
+possible without the delusion.
+
+For example, a 'Cyberarm' Delusion would provide +1/+2 to regular arm-related
+things. When the character with the Delusion wants to punch through a brick
+wall, or jam a bulkhead door shut, spending a point of Essence makes this
+possible. To refill the Delusion's capacity, the character simply must fulfill
+its need; in this case, eating and digesting a high-energy protein bar.
+
+== Purchase
+
+To purchase a Delusion, a point of the characters Essence capacity must be
+dedicated to it. This reduces the total amount of Essence that the character
+can store, but provides the Delusion with its own capacity that is typically
+refilled in an easier, quicker, safer, and/or more accessible manner.
+

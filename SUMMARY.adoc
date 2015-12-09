@@ -25,6 +25,7 @@
 ... link:setting/danjukk/darkpine.adoc[Darkpine]
 .. link:setting/eridian/README.adoc[Eridian]
 . link:adventures/README.adoc[Adventures]
+.. link:adventures/dustndeath/README.adoc[Dust and Death]
 .. link:adventures/a_taste_of_terror.adoc[A Taste of Terror]
 .. link:adventures/house_in_the_forest.adoc[House in the Forest]
 . link:legacy/README.adoc[Legacy]
