@@ -1,1 +1,22 @@
-# Setting
+= Setting
+
+Each of the Domains in the Twilight Hell are self-contained settings defined by a particular meta-genre. Each has their own relatively unique Nightmares within them, with varying levels of "definition":http://www.obsidianportal.com/campaign/twilighthell/wikis/Nightmare#definition and [[Clarity]] restrictions on "visibility":http://www.obsidianportal.com/campaign/twilighthell/wikis/Nightmare#visibility. The domain itself is a toroid, in the centre of which is one of the Great Pillars. The Stability of an area decreases proportional to the approximate distance from Domain Boundaries.
+
+== Great Pillar
+
+The Great Pillar in each Domain is the center of the toroid Boundary made manifest. In some Domains (like [[Metropolis]]) it is impossibly visible, where in others (like [[Danjukk]] it can't be viewed unless adjacent. It also never manifests the same way, opting to take on a thematically appropriate form to the Domain setting. See the individual Domain descriptions for specific implementation details.
+
+== Stability
+
+Stability is what makes maps and clocks make sense, it keeps the laws of reality from becoming guidelines, or even suggestions. The frequency and pervasiveness of Nightmares in a given area is inversely proportional to its Stability. Indeed, the ease at which an area may be manipulated into other forms is also dictated by Stability.
+
+== Nightmares
+
+In each Domain, the [[Nature]] of its narrative determines how [[Nightmare|Nightmares]] manifest, and how the inhabitants of said Domain react to them. In some, [[Nightmare|Nightmares]] are insidious things that are rarely seen or felt, and apply themselves indirectly. In others, [[Nightmare|Nightmares]] manifest as actual monsters, and are far less subtle about their work.
+
+== Instances
+
+While there are theoretically an infinite number of Domains, only a few have made their way into my brain, and even fewer have reached enough cognitive stability to bother listing. Also see [[The Wasteland]] as it is the place that exists between the Domains.
+* [[Metropolis]]: A byzantine labyrinth that literally never sleeps, inspired by "Dark City":http://www.imdb.com/title/tt0118929/, "World of Darkness":http://www.white-wolf.com/new-world-of-darkness, and the setting for "Don't Rest Your Head":http://www.evilhat.com/home/?page_id=101.
+* [[Danjukk]]: Supernatural Weird-West with Zombies. Inspired by "Wild Wild West":www.imdb.com/title/tt0120891/ and zombie horror.
+* [[Eridian]]: A bleak place dominated by a vast swamp.

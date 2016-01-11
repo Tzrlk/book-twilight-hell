@@ -1,1 +1,18 @@
 = Noir Central
+
+A district of the [[ Metropolis | Twilight Metropolis ]], Noire central is a bustling hub of 1940's America, Africa, China, and where-ever else the silver screen took it's fated players.
+
+h2. Common Protagonist Aspects
+
+* Private eye
+* Plainclothes policeman
+* Aging boxer
+* Hapless grifter
+* Law-abiding citizen lured into a life of crime
+* Victim of circumstance
+
+h2. Resources
+
+* "Roger Ebert":http://www.rogerebert.com/rogers-journal/a-guide-to-film-noir-genre
+* "Wikipedia":http://en.wikipedia.org/wiki/Film_noir
+* "IMDB":http://www.imdb.com/genre/film_noir

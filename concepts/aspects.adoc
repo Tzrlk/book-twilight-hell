@@ -1,11 +1,60 @@
-Aspects and Fate Points
-=======================
+= Aspects
 
-Most of the material for this section is covered in the Fate Core rules. In
-this setting, there are only a few addendum that need to be made, and
-setting-specific advice for picking and compelling them.
+Most of the material for this section is covered in the Fate Core rules. In this setting, there are only a few addendum that need to be made, and setting-specific advice for picking and compelling them.
 
-## Defining Aspects
+Each character in the Twilight Hell is defined by their personality traits. Even the weakest, no-name, no-face background characters have at least two Aspects that give them form and substance; this includes equipment and Domains.
+
+== Aspect Types
+
+=== High Concept
+
+This Aspect encompases the essence of a character, and sets the tone for all their adventures and behaviour. It should contain the character's profession if relevant, and any supernatural focuses if possessed.
+
+=== Fatal Flaw
+
+Each "thing" in the hell also has something that causes trouble for it.
+
+=== Additional Aspects
+
+For each point of Clarity, a "thing" gains another Aspect that further defines it's capabilities and personality
+
+=== Temporary Aspects
+
+By a player using discovery or as the result of a Consequence, Aspects may be added to a "thing" that further define it, without actually adding Clarity.
+
+== Examples
+
+=== Equipment
+
+*High Concept:* Well-worn snub-nosed .38 revolver
+*Fatal Flaw:* Dodgy serial number
+*Clarity:* Modified to shoot magnum rounds
+*Temporary:* Slick with sweat
+
+=== Background Character
+
+*High Concept:* Dangerous hoodlum
+*Fatal Flaw:* Dumb as a brick
+*Clarity:* Looking to leave crime behind
+*Temporary:* Dodgy knee
+
+=== Domain District
+
+*High Concept:* Bustling Film-noire district of The Metropolis
+*Fatal Flaw:* A place where hope goes to die
+*Clarity:* A bar on every corner
+*Temporary:* Good lighting
+
+=== Narrative Character
+
+*High Concept:* Hard-hitting reporter searching for the truth
+*Fatal Flaw:* Plagued by spirits of the dead
+*Clarity:* Eyes in the back of their head
+*Temporary:* At one with the voices
+
+== FATE Core references
+
+=== Defining Aspects
 
 [quote, Fate Core p56]
 ______________________________________________________________________________
@@ -16,7 +65,7 @@ character to get a bonus, complicating a character’s life, or adding to
 another character’s roll or passive opposition.
 ______________________________________________________________________________
 
-## Defining Fate Points
+=== Defining Fate Points
 
 [quote, Fate Core p56]
 ______________________________________________________________________________
@@ -30,7 +79,7 @@ When your aspects come into play, you will usually spend or gain a fate
 point.
 ______________________________________________________________________________
 
-## Types of Aspects
+=== Types of Aspects
 
 [quote, Fate Core p57]
 ______________________________________________________________________________
@@ -40,7 +89,7 @@ differ from one another in terms of what they’re attached to and how long
 they last.
 ______________________________________________________________________________
 
-### Game Aspects
+==== Game Aspects
 
 [quote, Fate Core p57]
 ______________________________________________________________________________
@@ -54,7 +103,7 @@ Everyone can invoke, compel, or create an advantage on a game aspect at
 any time; they’re always there and available for anyone’s use.
 ______________________________________________________________________________
 
-### Character Aspects
+==== Character Aspects
 
 [quote, Fate Core p57]
 ______________________________________________________________________________
@@ -84,7 +133,7 @@ the GM is always going to get the final say on whether or not it’s a valid
 suggestion.
 ______________________________________________________________________________
 
-### Situation Aspects
+==== Situation Aspects
 
 [quote, Fate Core p58]
 ______________________________________________________________________________
@@ -114,7 +163,7 @@ overcome. Other times they give you justification to provide active opposition
 against someone else’s action.
 ______________________________________________________________________________
 
-### Consequences
+==== Consequences
 
 [quote, Fate Core p58]
 ______________________________________________________________________________
@@ -130,7 +179,7 @@ them, and anyone who can justifiably benefit from the consequence can
 invoke it or create an advantage on it.
 ______________________________________________________________________________
 
-### Boosts
+==== Boosts
 
 [quote, Fate Core p58]
 ______________________________________________________________________________
@@ -142,11 +191,13 @@ If you want, you can also allow another character to invoke your boost, if
 it’s relevant and could help them out.
 ______________________________________________________________________________
 
-## What Aspects Do
+=== What Aspects Do
 
 In Fate, aspects do two major things: they tell you what’s important about
 the game, and they help you decide when to use the mechanics.
-Importance
+
+==== Importance
+
 Your collection of game and character aspects tell you what you need to
 focus on during your game. Think of them as a message from yourself to
 yourself, a set of flags waving you towards the path with the most fun.
@@ -455,26 +506,22 @@ Zird the Arcane hires Landon to quietly break into the Tower of
 Unrest at the Collegia. When their cover is blown, Landon kicks out
 the tower’s supporting pillars. The two escape as the structure comes
 crashing down.
-Aspects and
-Fate Points
-66
-Chapter
 
-## Making a Good Aspect
+==== Making a Good Aspect
 
 
 
-## If You Get Stuck
+==== If You Get Stuck
 
-## Invoking Aspects
+==== Invoking Aspects
 
-## Compelling Aspects
+==== Compelling Aspects
 
-## Using Aspectes for Roleplaying
+==== Using Aspects for Roleplaying
 
-## Removing or Changing an Aspect
+==== Removing or Changing an Aspect
 
-## Creating and Discovering New Aspects in Play
+==== Creating and Discovering New Aspects in Play
 
-## The Fate Point Economy
+==== The Fate Point Economy
 

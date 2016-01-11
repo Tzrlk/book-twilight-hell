@@ -1,6 +1,8 @@
 = Twilight Hell
 
-A tabletop RPG setting and rules guide.
+The Twilight Hell is a meta-setting, in that it is broken down into a number of Domains, each again broken into Districts. The Wastelands fills the gaps in between the Domains and facilitates travel for those who have either gained enough Clarity to traverse and explore, or those unfortunates to have stumbled across it accidentally, with almost no hope of return.
+
+The structure of the Twilight Hell aside, its inhabitants are numerous and varied. Each Domain homes a veritable continents-worth of population, though exact numbers or composition would be impossible to determine considering many of the inhabitants exist as a byproduct of the environment, rather than any biological processes. Truly, the same phenomena that generates the Nightmares that plague their lives is the same one that means there are always enough extras to fill in the crowd-scene and make a place feel busy.
 
 == Sections
 

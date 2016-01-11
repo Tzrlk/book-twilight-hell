@@ -1,7 +1,14 @@
 = Dust and Death
 
+== Characters
+
+* Mason Dixon
+* Professor Archivist Tel Set
+* Te Schwarm Chuuk (Followed by Death)
+
 == Adventure Log
 
 * link:_log-1.1.0.adoc[Pre-game]
-* link:_log-1.1.1.adoc[Session 1]
-
+* link:_log-1.1.1.adoc[Session 1: Fish out of water]
+* link:_log-1.1.2.adoc[Session 2: On the Edge]
+* link:_log-1.1.3.adoc[Session 3: Depths of Madness]

@@ -1,0 +1,17 @@
+= Practices
+
+Each is a method of invoking magic. Each one requires the use of spririt material in some way.
+
+== Examples
+
+=== Sidereal Alchemy
+Pillar: Madness
+
+=== Cannibal Animism
+Pillar: Madness
+
+=== Hypertech Engineering
+Pillar: Exhaustion
+
+=== The Rush
+Pillar: Exhaustion

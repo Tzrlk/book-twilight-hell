@@ -1,8 +1,8 @@
 = Dustburn
 
-image::setting/danjukk/danjukk_central.jpg[Central Map]
+image::./danjukk_central.jpg[Central Map]
 
-== Trinity
+== The Mesas
 
 === Vedem
 
@@ -10,6 +10,10 @@ image::setting/danjukk/danjukk_central.jpg[Central Map]
 
 === Yvoras
 
-== Sun's Cradle
+== The Anvil
 
 == Bone Valley
+
+== Walkworth
+
+== Edge

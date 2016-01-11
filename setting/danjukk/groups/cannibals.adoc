@@ -1,0 +1,6 @@
+= Cannibals
+
+== Appearance
+
+image:./cannibals-1.jpg[alt=""]
+image:./cannibals-2.jpg[alt=""]
