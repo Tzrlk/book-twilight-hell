@@ -16,7 +16,7 @@
 ... link:crunch/magic/totems.adoc[Totems]
 ... link:practices.adoc[Practices]
 .. link:crunch/character-creation.adoc[Character Creation]
-.. link:professions.adoc[Professions]
+.. link:crunch/skills/README.adoc[Skills]
 .. link:crunch/stress.adoc[Stress]
 . link:setting/README.adoc[Setting]
 .. link:setting/metropolis/README.adoc[Metropolis]

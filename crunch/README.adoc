@@ -1,5 +1,23 @@
 = Crunch
 
+The rules system is based-off FATE Core. The standard dials are as such:
+
+|=====
+>s|Number of aspects: |1 + ( 2 * Clarity )
+>s|Number of phases: |2 * Clarity
+>s|Skill cap: |3 + ( Clarity / 2 )
+>s|Skill pyramid or columns: |Columns
+>s|Number of Columns: |5
+>s|Refresh Rate: |0
+>s|Number of initial stunts: |0
+>s|Types of stress tracks: |Exhausion, Pain, Fear, Madness
+>s|Default number of stress boxes: |2
+>s|Default consequence slots: |1 / 2 / 4
+>s|Skills|Athletics, Contacts, Crafts, Deceive, Drive, Endurance, Fight,
+	Investigate, Larceny, Lore, Magic, Notice, Provoke, Rapport, Resources,
+	Shoot, Stealth, Survival, Will
+|=====
+
 == Sections
 
 .link:magic/README.adoc[Magic]
