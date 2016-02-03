@@ -1,17 +1,12 @@
 = Practices
 
-Each is a method of invoking magic. Each one requires the use of spririt material in some way.
+Each is a method of invoking magic. Each one requires the use of spirit material in some way.
 
-== Examples
-
-=== Sidereal Alchemy
-Pillar: Madness
-
-=== Cannibal Animism
-Pillar: Madness
-
-=== Hypertech Engineering
-Pillar: Exhaustion
-
-=== The Rush
-Pillar: Exhaustion
+[cols="^s,n,n,n,n"]
+|===================================================
+|Pillar     s|Exhaustion s|Pain   s|Fear   s|Madness
+|Exhaustion  |Hypertech   |?       |Rush    |Animism
+|Pain        |?           |?       |?       |?
+|Fear        |?           |?       |?       |?
+|Madness     |Sideria     |Arcana  |?       |Goetia
+|===================================================

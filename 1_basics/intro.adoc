@@ -1,0 +1,11 @@
+= Chapter 1: The Basics
+
+== The Hell
+
+== The System
+
+Playing a Twilight Hell game requires the Fate Core ruleset available from Evil Hat Publishing
+footnote:[http://www.evilhat.com/home/fate-core/].
+
+== The Story
+
