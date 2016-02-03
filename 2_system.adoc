@@ -1,0 +1,39 @@
+= The System
+
+The rules system is based-off FATE Core. The standard dials are as such:
+
+|=====
+>s|Number of aspects: |1 + ( 2 * Clarity )
+>s|Number of phases: |2 * Clarity
+>s|Skill cap: |3 + ( Clarity / 2 )
+>s|Skill pyramid or columns: |Columns
+>s|Number of Columns: |5
+>s|Refresh Rate: |0
+>s|Number of initial stunts: |0
+>s|Types of stress tracks: |Exhausion, Pain, Fear, Madness
+>s|Default number of stress boxes: |2
+>s|Default consequence slots: |1 / 2 / 4
+>s|Skills|Athletics, Contacts, Crafts, Deceive, Drive, Endurance, Fight,
+	Investigate, Larceny, Lore, Magic, Notice, Provoke, Rapport, Resources,
+	Shoot, Stealth, Survival, Will
+|=====
+
+== Stress
+
+h2. Endurance / Pain
+
+h2. Energy / Exhaustion
+
+All people get tired at some stage. They might never sleep, but they always get tired. As a story progresses, character will become exhausted with the constant physical and mental stress of their activities. As they get more exhausted, things get progressively harder.
+
+h2. Courage / Fear
+
+Franklin D. Roosevelt said at his inaugural speech a sentence that seems perfectly apt to highlight the danger of Fear in the Twilight hell:
+
+bq. "So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyses needed efforts to convert retreat into advance."
+
+The very fabric of reality is distorted by the Fear of those who dwell within it. Where the Stability of a [[Domain]] is weak, the effects of Fear, and the things that can manifest from it are stronger and more terrible.
+
+h2. Ego / Madness
+
+The Twilight Hell is contradictory at the best of times. The minds trapped within its clutches struggle to make what sense they can of it. The slow erosion of ones' worldview causes a spiral of madness that ends in nothing good.

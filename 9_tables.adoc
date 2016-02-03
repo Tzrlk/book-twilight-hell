@@ -1,6 +1,6 @@
-# Resistance
+= Tables
 
-## Distance
+== Distance
 |    | Adjective | Physical | Projectile | Ballistic |
 | -- | --------- | -------- | ---------- | --------- |
 | 0  | Touch     | 10cm     | 50cm       | 500m      |
@@ -15,7 +15,7 @@
 | 9  | Extreme   | 200m     | 10km       | 10Mm      |
 | 10 | Insane    | 500m     | 50km       | 50Mm      |
 
-## Time
+== Time
 |    | Adjective  |
 | -- | ---------- |
 | 0  | Instant    |

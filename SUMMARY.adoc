@@ -1,6 +1,16 @@
 = Summary
 
 . link:README.adoc[Introduction]
+. link:1_basics.adoc[The Basics]
+. link:2_system.adoc[The System]
+. link:3_crunch.adoc[The Crunch (Character Creation)]
+. link:4_skills.adoc[The Skills]
+. link:5_stunts.adoc[The Stunts]
+. link:6_items.adoc[The Items]
+. link:7_spells.adoc[The Spells]
+. link:8_eidola.adoc[The Eidola]
+. link:9_tables.adoc[The Tables]
+
 . link:concepts/README.adoc[Concepts]
 .. link:concepts/aspects.adoc[Aspects]
 .. link:concepts/clarity.adoc[Clarity]
@@ -10,14 +20,7 @@
 ... link:concepts/pillars/pain.adoc[Pain]
 ... link:concepts/pillars/fear.adoc[Fear]
 ... link:concepts/pillars/madness.adoc[Madness]
-. link:crunch/README.adoc[Crunch]
-.. link:crunch/magic/README.adoc[Magic]
-... link:crunch/magic/items.adoc[Items]
-... link:crunch/magic/totems.adoc[Totems]
-... link:practices.adoc[Practices]
-.. link:crunch/character-creation.adoc[Character Creation]
-.. link:crunch/skills/README.adoc[Skills]
-.. link:crunch/stress.adoc[Stress]
+
 . link:setting/README.adoc[Setting]
 .. link:setting/metropolis/README.adoc[Metropolis]
 ... link:setting/metropolis/noir_central.adoc[Noir Central]
@@ -35,5 +38,4 @@
 .. link:adventures/a_taste_of_terror.adoc[A Taste of Terror]
 .. link:adventures/house_in_the_forest.adoc[House in the Forest]
 .. link:adventures/bloodin_black_and_white.adoc[Blood in Black and White]
-. link:legacy/README.adoc[Legacy]
 

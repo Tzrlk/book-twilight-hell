@@ -1,0 +1,41 @@
+= The Skills
+
+* Athletics
+* Burglary
+* Contacts
+* Crafts
+* Deceive
+* Drive
+* Fight
+* Investigate
+* Lore
+* Notice
+* Endurance
+* Provoke
+* Rapport
+* Resources
+* Shoot
+* Stealth
+* Survival
+* Will
+
+== Use
+
+=== Combinations
+
+Frequently, a challenge can't be solved within the domain of a single skill,
+so this is handled mechanically by taking the lowest value of all required
+skills.
+
+For instance, if a character has an opportunity to notice an obscure detail
+about another character's revolver, such as a manufacturing defect in its
+particular run, they would roll the lowest of Shoot, Lore, and Notice.
+
+If the detail to be noticed is more ordinary, such as the safety catch being
+engaged, they may only have to roll the lowest of Shoot and Notice.
+
+However, if it's something that doesn't require an intimate understanding of
+firearms or their maintenance, such as the word 'replica' being engraved on
+the action, only Notice would be necessary.
+
+

@@ -1,4 +1,4 @@
-= Delusions
+= The Eidola
 
 Delusions allow a character to do things outside the normal bounds of Aspect
 invocation. While this can be extremely useful and powerful in the correct
