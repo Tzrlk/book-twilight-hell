@@ -1,0 +1,131 @@
+= Investigate
+
+== Investigate Stunts
+
+=== Senses
+
+* *Eavesdropper.* On a successful Investigate roll to create an
+advantage by eavesdropping on a conversation, you can discover or create
+one additional aspect (though this doesn't give you an extra free
+invocation). (Fate Core, p.113)
+* *Eye for Detail.* (requires Scene of the Crime.) Your visual memory is
+so strong that with a little concentration, you can revisit any place
+you've been to in your memory in exacting detail. Sometimes, you can
+even pick up on details that you hadn't consciously realized before. To
+use this ability, spend a fate point and make a single perception-based
+roll (usually Investigate, but not necessarily limited to that) to find
+things out as if you were still in the location, no matter how long ago
+you left it. (adapted from Spirit of the Century SRD, v6.17.1)
+* *Focused Senses.* You are skilled at concentrating on one of your
+senses to the exclusion of all others. The sense must be specified at
+the time this stunt is taken. As a free action, you may gain the
+_Focused on My Senses_ aspect. So long as this aspect remains, for as
+long as you use nothing but Investigate, all Investigate actions you
+take that use the specified sense gain a +2 bonus. However, your
+opponents may invoke the aspect against you once for free. Rolling a
+skill other than Investigate removes the aspect. (This stunt may be
+taken multiple times, each time for a single sense. If you have
+specified multiple senses, your focus may cover all of them at once.)
+(adapted from Spirit of the Century SRD, v6.17.2)
+* *Impossible Detail.* (requires Focused Senses.) When paying attention,
+your senses operate at a profound level of focus, allowing you to pick
+up on details that, very simply, no one else easily or even possibly
+could. With this stunt, you face no increased difficulties due to a
+physical detail being too small or subtle. (adapted from Spirit of the
+Century SRD, v6.17.2)
+* *Scene of the Crime.* You have a strong visual memory, and whenever
+you revisit a place where you have used Investigate before, it takes a
+matter of seconds for you to use Investigate to determine what has
+changed since you were last there. (adapted from Spirit of the Century
+SRD, v6.17.1)
+
+=== Specific Targets
+
+* *De-Bugger.* +2 to overcome with Investigate when you sweep a room for
+surveillance devices. (Peter Blake)
+* *Game Hunter's Nose.* Choose a type of animal. You gain +2 to create
+advantage or overcome with Investigate when you search for or track that
+kind of animal. (Peter Blake)
+* *Hit the Books.* +2 to overcome or create advantage with Investigate
+when you seek or consult textual sources. (Peter Blake)
+* *Internal Affairs.* +2 to overcome or create advantage with
+Investigate when on the trail of corruption. (Peter Blake)
+* *Plague Hunter.* +2 to Investigate when you seek people with a highly
+infectious disease. (Peter Blake)
+* *Relic Hunter.* +2 to Investigate when you seek artefacts from ancient
+civilizations. (Peter Blake)
+* *Tracker.* +2 to Investigate rolls made to analyse or follow a person
+or creature's physical trail. (Peter Blake)
+
+=== Deduction
+
+* *The Pieces of the Puzzle.* When you take a few minutes to study a
+particular item and its position, you can reasonably reconstruct the
+chain of events that led to it being there. This reconstruction will be
+accurate, though it will not reveal any more than the necessary details.
+For example, it might reveal that it was carried by hand at some point,
+but not by whom. (Fate System Toolkit, p.93)
+* *The Power of Deduction.* Once per scene you can spend a fate point
+(and a few minutes of observation) to make a special Investigate roll
+representing your potent deductive faculties. For each shift you make on
+this roll you discover or create an aspect, on either the scene or the
+target of your observations, though you may only invoke one of them for
+free. (Fate Core, p.113)
+* *Uncanny Hunch.* (requires one other Investigate stunt and one Empathy
+stunt.) Sometimes your guesses play out to great advantage. Once per
+scene, you may make a guess about what the "deal" is with a particular
+character, object, location, or situation. Do not speak this guess
+aloud; write it down on a piece of paper and give it to the GM. The GM
+must accept it as a valid hunch that would be something of a revelation
+if true (i.e., no "I'm convinced that moon orbits the Earth!" - that's
+too obvious). If, at some later point, your hunch proves to be correct,
+you may use your Investigate or Empathy skill instead of any other
+skill, where that target is concerned, for one exchange. (A savvy GM
+will occasionally alter her characters' motives to match your hunches;
+if she does, that's absolutely perfect!) (adapted from Spirit of the
+Century SRD, v6.17.1)
+
+=== New Actions
+
+* *Attention to Detail.* You can use Investigate instead of Empathy to
+defend against Deceive attempts. What others discover through gut
+reactions and intuition, you learn through careful observation of
+microexpressions. (Fate Core, p.113)
+* *Going Undercover.* Sometimes looking like someone else is just part
+of a detective's job. You may use Investigate in place of Deceive to
+create and maintain disguises or cover identities. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *I Will Find Out What I Want To Know.* There's not much point being
+able to get information from a crime scene if you can't get information
+from a person. You may use Investigate in place of Provoke to
+interrogate a suspect.
+* *Investigative Reporter.* Your writing style depends more upon good
+research than anything else. You may use Investigate instead of Provoke
+or Rapport for journalism. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Lip Reader.* You may use Investigate to eavesdrop on conversations
+you can only see. If the GM would normally allow someone to attempt to
+read lips, you gain +2 to the roll; otherwise, you may simply roll
+Investigate when others may not. (adapted from Spirit of the Century
+SRD, v6.17.2)
+* *Look Behind You.* Following a suspect is easy; doing it without their
+knowledge is the trick, and you've got that trick down. You may use
+Investigate in place of Stealth when shadowing a "person of interest".
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Reading Suspects.* Part of being a good detective is knowing
+"whodunit" long before anything can be proved. You may use Investigate
+in place of Empathy when you have at least one piece of evidence
+indicating that your target is a suspect in your current case. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)
+* *They Don't Deserve the Truth.* You may use Investigate in place of
+Deceive to lie to about a case. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Other
+
+* *Quick Eye.* You are able to investigate a location much more quickly
+than others, while still being very thorough. All Investigate efforts
+you make happen one to two time increments faster than usual, allowing
+you to make one or two additional rolls in the same amount of time, or
+simply conclude your investigation faster than you would otherwise.
+(adapted from Spirit of the Century SRD, v6.17.2)

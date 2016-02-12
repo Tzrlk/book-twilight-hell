@@ -1,0 +1,117 @@
+= Larceny
+
+== Larceny Stunts
+
+=== Before the Job
+
+* *The Big Heist.* (requires Mental Blueprint.) Once per scene, when you
+case a location you can spend a fate point (and a few minutes of
+observation) to make a special Burglary roll representing your criminal
+genius. For each shift you make on this roll you discover or create an
+aspect on the location, though you may only invoke one of them for free.
+(adapted from Spirit of the Century SRD, v6.6.2)
+* *Mental Blueprint.* You're highly skilled at visualizing the whole of
+a target based on just a part of it. When casing a location, you receive
+a +2 on Burglary rolls to create an advantage. (adapted from Spirit of
+the Century SRD, v6.6.2)
+
+=== On The Job
+
+* *Bump and Grab.* Your character is exceptionally skilled at taking
+advantage of distractions in order to make a quick grab. You may spend a
+fate point to attempt a simple Burglary action - such as picking a
+pocket, or palming an object - as a free action. (adapted from Spirit of
+the Century SRD, v6.26.1)
+* *Cool Hand.* A steady hand can be critical when things get hairy. Your
+hands never shake and never waver. +2 to overcome actions with Burglary
+whenever you perform fine manual work. (adapted from Spirit of the
+Century SRD, v6.26.1)
+* * *Cutpurse.* Once per scene, as a free action, you can attempt to
+pick the pocket of someone in the same zone as you. Success at no cost
+on this roll means your victim is not even aware of the theft. (Peter
+Blake)
+* *Hatpin Maestro.* You don't ever have to spend a fate point to declare
+that you have the proper tools for lockpicking or disabling a device,
+even in extreme situations (like being imprisoned and separated from all
+your stuff). This source of opposition is just off the table. (adapted
+from Spirit of the Century SRD, v6.6.2)
+* *Preferred Target.* Thieves have specialities, just like scientists.
+Pick a type of location or object (e.g. banks, apartments, handbags).
+You gain +2 to your Burglary skill when using it against that type of
+target. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Security Specialist.* You don't have to be present to provide active
+opposition to someone trying to overcome security measures you put in
+place or worked on. (Normally, a character would roll against passive
+opposition for that.) (Fate Core, p.99)
+
+=== After the Job
+
+* *The Accounting of Small Things.* Once you have successfully stolen
+something small enough to fit in a pocket, it is gone until you choose
+to reveal it again. No amount of searching-or even stripping-will reveal
+the purloined item. You may only have one such item at a time hidden in
+this fashion. (Fate System Toolkit, p.96)
+* *Always a Way Out.* +2 on Burglary rolls made to create an advantage
+whenever you're trying to escape from a location. (Fate Core, p.99)
+* *Criminal Mind.* +2 on Burglary rolls made to create an advantage when
+investigating another criminal's work which closely matches a crime you
+have committed before. (adapted from Spirit of the Century SRD, v6.6.1)
+* *Without a Trace.* You don't have to be present to provide active
+opposition to someone trying to analyse physical evidence that you were
+present during a crime. (Normally, a character would roll against
+passive opposition for that.) (adapted from Spirit of the Century SRD,
+v6.27.3)
+
+=== Magic
+
+* *Legerdemain.* +2 to Burglary rolls made to perform magic tricks.
+(adapted from Spirit of the Century SRD, v6.26.2)
+* *Master of Illusion.* (requires Stage Magic.) The time it takes for
+you to prepare a large illusion is reduced by two shifts. (adapted from
+Spirit of the Century SRD, v6.26.2)
+* *Stage Magic.* (requires Legerdemain.) You can perform misdirection on
+a large scale, under appropriately controlled circumstances. Provided
+you are acting within an arena you control (such as a stage, or an area
+you have had adequate time to prepare), there are simply no size
+limitations (within reason) for your Burglary targets. (adapted from
+Spirit of the Century SRD, v6.26.2)
+
+=== New Actions
+
+* *Disable Device.* If you can take apart a lock, you can take apart a
+clock. You may use Burglary instead of Crafts to disassemble anything
+mechanical. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Five-Fingered Discount.* Why buy what you can steal? You may use your
+Burglary skill instead of your Resources skill to "buy" things.
+Everything obtained this way has the aspect _Stolen Property_ with one
+free invocation against you. The difficulty of an attempt to obtain
+something with Burglary may or may not be the same as the difficulty of
+an attempt to buy that same thing with Resources, at the GM's
+discretion. The time required may also vary. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Talk the Talk.* You can use Burglary in place of Contacts whenever
+you're dealing specifically with other thieves and burglars. (Fate Core,
+p.99)
+* *Trespass Tempo.* (requires Tripwire Sensibilities.) Whenever you're
+running a heist, you operate on a very precise internal clock. You may
+use Burglary instead of Notice to determine turn order as long as
+everything is going to plan. (adapted from Spirit of the Century SRD,
+v6.6.1)
+* *Tripwire Sensibilities.* You've run into enough traps that you've
+developed an instinct for avoiding them. You may roll Burglary instead
+of Investigate or Notice in order to spot or defend against a trap.
+(adapted from Spirit of the Century SRD, v6.6.1)
+* *You're Never Safe.* You can use Burglary to make mental attacks and
+create advantages against a target, by staging a heist in such a way as
+to shatter their confidence in their security. (Fate Core, p.89)
+
+=== Other
+
+* *Burglar's Signature.* Some element of your character makes you an
+expert thief. Pick one of your aspects. Once per scene, you may invoke
+that aspect on a Burglary roll for free. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *I, Lupin!* Somehow, you can always pull of a stroke of larcenous
+brilliance when it really counts. Once per scene, when you succeed on a
+Burglary roll, you may choose to succeed with style instead. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)

@@ -1,0 +1,135 @@
+= Shoot
+
+== Stunts
+
+=== Aiming
+
+* *Scope User.* You know how to use a scope. +2 to create advantages
+with Shoot related to aiming while using a scope or laser sight.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Uncanny Accuracy.* Once per conflict, stack an additional free invoke
+on an advantage you've created to represent the time you take to aim or
+line up a shot (like __In My Sights__). (Fate Core, p.125)
+
+=== Ammunition
+
+* *Fast Reload.* +2 to Shoot whenever you roll to overcome an aspect of
+_Out of Ammunition_ or similar that has been placed upon you. (adapted
+from Spirit of the Century SRD, v6.15.2)
+* *Lead in the Air.* You really like emptying magazines. Any time you're
+using a fully automatic weapon and you succeed at a Shoot attack, you
+automatically create a Fair (+2) opposition against movement in that
+zone until your next turn, because of all the lead in the air.
+(Normally, you'd need to take a separate action to set up this kind of
+interference, but with the stunt, it's free.) (Fate Core, p.90)
+* *One Shot Left (or Empty Mag, Empty Room).* That last bullet has a
+kind of magic to it. Once per scene, you may create an aspect of _One
+Shot Left_ (equivalently, __The Whole Magazine at Once__) on yourself as
+a free action. You may invoke this aspect once for free, but doing so
+changes the aspect to __Out of Ammunition__. The Fast Reload stunt
+explicitly cannot be used to overcome this aspect. (adapted from Spirit
+of the Century SRD, v6.15.2, and
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Rain of Lead.* +2 to create advantage rolls with Shoot when you
+create an aspect relating to suppressive fire. (adapted from Spirit of
+the Century SRD, v6.15.2)
+
+=== Indirect Shots
+
+* *Crazy Ricochet.* When you use the Ricochet stunt, you may invoke
+further aspects to represent further bounces, gaining a bonus for each
+as normal. (Peter Blake)
+* *Fortunate Rebound/Through and Through.* Once per scene, when you
+succeed with style on a Shoot attack, you may inflict a 2-shift physical
+hit on another opponent in the same zone instead of gaining a boost.
+(Peter Blake)
+* *Ricochet.* You may invoke a relevant situation aspect to bounce a
+projectile off a solid surface, allowing it to come at an opponent from
+an unexpected direction. (This invocation does not provide its normal
+bonus.) If your attack is successful, the stress of the hit is increased
+by 2. (adapted from Spirit of the Century SRD, v6.29.2)
+
+=== Long Range
+
+* *Good Arm.* You have an amazing throwing arm, and can throw weapons
+with great force. If thrown weapons have a shorter range in your game
+than guns, this stunt extends that range to two zones, equal to that of
+guns. (adapted from Spirit of the Century SRD, v6.29.2)
+* *Legendary Archer.* Bows are not just weapons, they're your weapons of
+choice. When wielding a bow or crossbow, you can make attacks with it
+from two additional zones away. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Long Shot.* You can make physical attacks with Shoot from up to three
+zones away, rather than the usual two. (adapted from Spirit of the
+Century SRD, v6.15.1)
+* *Sniper.* Once per scene, you may make an attack with Shoot from up to
+ten zones away, provided you have a sniper rifle and scope. (Peter
+Blake)
+
+=== Specific Targets
+
+* *Feller of Fauna.* To you, guns aren't for killing people; they're for
+killing animals. +2 to Shoot attacks against mundane animals. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Game Hunter's Finger.* Choose a type of animal. You gain +2 to attack
+with Shoot against that kind of animal. (Peter Blake)
+* *Trick Shot.* +2 to create advantage with Shoot when firing at an
+inanimate object. (adapted from Spirit of the Century SRD, v6.15.1)
+
+=== New Actions
+
+* *Gun-Crazy/Way of the Gun.* You may use Shoot instead of Crafts
+whenever you're working with guns specifically. (adapted from Spirit of
+the Century SRD, v6.15.4)
+* *Gun Kata.* You are light on your feet with a gun in your hand, able
+to keep the gunplay going while evading attempts to harm you. You may
+use Shoot instead of Athletics to defend against physical attacks.
+(adapted from Spirit of the Century SRD, v6.15.1)
+* *Juggler.* You have a great talent for juggling; this includes the
+ability to throw around seemingly dangerous objects (knives, torches)
+without any fear of harm to yourself. +2 to Shoot when using juggling to
+entertain. (adapted from Spirit of the Century SRD, v6.26.2)
+* *Personal Arsenal.* You own a great number of weapons, and you get new
+ones all the time. Use your Shoot skill instead of your Resources skill
+when dealing with weaponry. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Quick on the Draw.* You can use Shoot instead of Notice to determine
+turn order in any physical conflict where shooting quickly would be
+useful. (Fate Core, p.125)
+* *Shot on the Run.* Once per scene, you may move one zone, attack with
+Shoot, and then move one additional zone, provided there are no
+situation aspects restricting movement. (Peter Blake)
+* *Snap Shot.* (requires Quick on the Draw.) Once per conflict, between
+or before other characters' actions, you may spend a fate point to
+preempt the usual turn order and act next. The action taken must involve
+a roll with your Shoot skill - usually an attack. This may be done in
+addition to your normal action. (adapted from Spirit of the Century SRD,
+v6.15.3)
+
+=== Other
+
+* *Called Shot.* During a Shoot attack, spend a fate point and declare a
+specific condition you want to inflict on a target, like __Shot in the
+Hand__. If you succeed, you place that as a situation aspect on them in
+addition to hitting them for stress. (Fate Core, p.125)
+* *Master of the Lasso.* +2 to create advantages with Shoot whenever
+this involves throwing a lasso. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Ranged Knockback.* When you succeed with style on a Shoot attack with
+a thrown weapon, you may choose to reduce the value of your hit by one
+in order to move your opponent one zone, provided there are no situation
+aspects impeding this movement. (Peter Blake)
+* *Subtle Draw.* +2 to Shoot whenever there is active opposition to your
+first shot in a scene. (adapted from Spirit of the Century SRD, v6.15.3)
+* *Trained As a Unit/Team Player.* You were trained alongside the rest
+of your unit, and now that unit is like a single organism. +2 to create
+advantages with Shoot whenever working with another character who is
+from the same unit as you and who also has this stunt. (A similar stunt
+could exist in many other skills.) (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Two Gun Joe.* Normally, shooting with two guns just looks cool, but
+when you fire two weapons, you have a decisive advantage. Any time you
+succeed on an attack with two guns, the stress inflicted is increased by
+one. (adapted from Spirit of the Century SRD, v6.15.4)
+* *Volley.* When you combine Shoot skills with your allies, you
+contribute an additional +1 bonus. (Peter Blake)

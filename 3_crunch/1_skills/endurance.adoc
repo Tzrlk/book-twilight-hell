@@ -1,0 +1,187 @@
+= Endurance
+
+== Stunts
+
+=== Endurance
+
+* *Always Healthy/Strong Immune System.* +2 to overcome rolls with
+Physique to resist disease. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Death Defiance.* If you are taken out in a physical conflict, you may
+spend a fate point to concede instead. After you have collected fate
+points for conceding, you must spend a further amount of half of your
+fate points, rounded down. Coincidence conspires to keep you alive, and
+you pass from the view of the other combatants (such as by dropping off
+a cliff, apparently failing to escape from an exploding building, or the
+like). You may re-enter play in any subsequent scene in as dramatic a
+fashion as you see fit, explaining to everyone how you survived. You
+return with all of your physical stress cleared and a single additional
+consequence incurred to reflect the dangers you defied. (adapted from
+Spirit of the Century SRD, v6.11.2)
+* *Desertborn.* +2 to overcome or defend with Physique against heat and
+thirst. (Peter Blake)
+* *Developed Immunities.* (requires Toxin Exposure.) You gain a further
++2 to overcome rolls with Physique to resist any poison you have
+previously encountered "on screen". (adapted from Spirit of the Century
+SRD, v6.11.2)
+* *Large Lung Capacity.* +2 to Physique to overcome or defend against
+suffocation or drowning. (Peter Blake)
+* *Last Leg.* You may spend fate points to keep standing. Any time you
+would suffer a consequence or be taken out by physical stress, you may
+spend a fate point to remain standing or otherwise defer a consequence
+for one more exchange, or until you take stress again, whichever comes
+first. Once the extra time you've bought is up, all the effects you have
+deferred come to bear at once. You may keep spending fate points each
+time the time limit expires until you run out. (This makes it possible
+for you to be taken out by a character who has already conceded or been
+taken out in the intervening time!) (adapted from Spirit of the Century
+SRD, v6.11.1)
+* *Tireless.* +2 to Physique when rolling to overcome or defend against
+exhaustion or sleep deprivation. (adapted from Spirit of the Century
+SRD, v6.11.1)
+* *Toxin Exposure.* +2 to overcome rolls with Physique to resist
+poisons. (adapted from Spirit of the Century SRD, v6.11.2)
+
+=== Pushing and Shoving
+
+* *Body Toss.* (requires Wrestler.) You know how to apply your strength
+in a fight to take people off their feet. +2 to create advantages with
+Physique whenever you try to throw or push someone. (adapted from Spirit
+of the Century SRD, v6.19.2)
+* *Domino Effect.* When you succeed with style on an attempt to push
+over or trip an opponent, you may create an additional identical aspect
+on another weaker opponent in the same zone. Both aspects come with one
+free invocation. ("Weaker opponent" here means an opponent with a lower
+Physique than the one who defended against your action.) (Peter Blake)
+* *The Drunken Shove.* Your rude and artless push contains a greater
+power than seems possible. You gain +2 to use Physique to create an
+advantage on an opponent by knocking them off balance. (Fate System
+Toolkit, p.150)
+* *Low Centre of Gravity.* +2 to defend with Physique against attempts
+to trip or grapple you. (Peter Blake)
+* *Scrum.* You may roll Physique to push yourself and an opponent into
+an adjacent zone, provided there are no situation aspects impeding
+movement. Your opponent may defend with either Athletics or Physique.
+(Peter Blake)
+
+=== Stress and Consequences
+
+* *Face the Pain.* (requires Feel the Burn.) You are able to lessen the
+effects of physical injury thanks to your incredible stamina. Once per
+scene, you may spend a fate point, and uncheck any one of your physical
+stress boxes. (adapted from Spirit of the Century SRD, v6.11.1)
+* *Feel the Burn.* You can push through incredible pain in order to
+reach your goal. You gain an additional mild consequence slot. This slot
+can only be used for physical harm. (adapted from Spirit of the Century
+SRD, v6.11.1)
+* *Man of Iron.* (requires Thick Skinned.) When you take physical
+stress, and the stress box with a value equal to the shift value of the
+hit is already checked, you may instead mark the next lowest value box
+that is unchecked. Very simply, this means that you don't start picking
+up consequences unless someone hits you for more than your highest value
+box (difficult at best!) or all of your boxes are filled up. (adapted
+from Spirit of the Century SRD, v6.11.3)
+* *One Hit to the Body.* When you take physical stress, you may check
+off two stress boxes with a total value equal to or greater than the
+shift value of the hit. (adapted from Spirit of the Century SRD,
+v6.11.3)
+* *Thick Skinned.* (requires One Hit to the Body.) You gain one more
+physical stress box. (adapted from Spirit of the Century SRD, v6.11.3)
+* *Tough as Nails.* Once per session, at the cost of a fate point, you
+can reduce the severity of a moderate consequence that's physical in
+nature to a mild consequence (if your mild consequence slot is free), or
+erase a mild consequence altogether. (Fate Core, p.119)
+
+=== Wrestling
+
+* *Grappler.* +2 to Physique rolls made to create advantages on an enemy
+by wrestling or grappling with them. (Fate Core, p.119)
+* *Hammerlock.* (requires Wrestler.) Whenever you have hold of someone
+and they fail to overcome your hold, you deal 1 shift of physical stress
+to them. (adapted from Spirit of the Century SRD, v6.19.2)
+* *Unbound/Clever Wrestling.* You aren't easy to hold down. +2 to
+overcome with Physique whenever you are physically restrained in some
+fashion - for example by chains or a mob of people. (adapted from Spirit
+of the Century SRD, v6.19.1, and
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== New Actions
+
+* *Bounce Back.* You may roll Physique instead of Lore when performing a
+physical recovery action on yourself. (adapted from Spirit of the
+Century SRD, v6.11.2)
+* *Fling Foe.* You may roll Physique to throw an enemy you have _Picked
+Up_ into an adjacent zone. You must overcome any situation aspects that
+impede the enemy's movement. (Peter Blake)
+* *Heavy Object Swing.* Sometimes pure strength can compensate pretty
+well for a lack of skill. You may use Physique instead of Fight whenever
+you use a heavy object as a melee weapon. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Heavy Object Throw.* (requires Heavy Object Swing.) If you spin a
+weight fast enough, it can become airborne. You may use Physique instead
+of Shoot to attack targets one zone away with a heavy object. (adapted
+from http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Mighty Pull.* You can use Physique to create advantages related to
+your ability to draw bows back further than most, granting extra force
+to the arrow or bolt. (Peter Blake)
+* *Muscle Your Way Up.* Climbing is basically like weightlifting, except
+you are the weight. You may use Physique in place of Athletics when
+climbing. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Piledriver.* (requires Herculean Strength.) You may make attacks
+against inanimate targets using Physique instead of Fight. (adapted from
+Spirit of the Century SRD, v6.19.1)
+* *Shield Sling.* When armed with a shield, you may attack an opponent
+one zone away with Physique, but doing so places the aspect _No Shield_
+on you. (Peter Blake)
+* *Take the Blow.* You can use Physique to defend against Fight attacks
+made with fists or blunt instruments, though you always take 1 shift of
+stress on a tie. (Fate Core, p.119)
+* *Toughness of Mind and Body.* A guy as tough as you has no need to be
+afraid. You may use Physique instead of Will to defend against fear.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Unstoppable.* (requires Herculean Strength and at least one other
+Physique stunt.) Once in motion, you are very difficult to stop due to
+your sheer muscular force. You may use Physique rather than Athletics to
+move between zones. (adapted from Spirit of the Century SRD, v6.19.1)
+* *Wrestler/Power Over Finesse.* Your unarmed attacks rely on brute
+strength rather than on technique. You may make such attacks against
+other humans with Physique rather than Fight. (adapted from Spirit of
+the Century SRD, v6.19.2, and
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Other
+
+* *Bend Bars, Lift Gates.* You may spend a fate point to automatically
+overcome a Physique obstacle, even if you've already rolled for it,
+provided you're trying to accomplish something through brute strength.
+(Fate System Toolkit, p.41)
+* *Charge Like Ox.* Because you are __Strong Like Ox__, once per scene,
+as a single action, you may move two zones in a straight line then make
+a physical attack. (Fate System Toolkit, p.34)
+* *Favored Enemy Tackle.* Choose an organisation. You gain +2 to create
+advantage with Physique against members of that group. (Peter Blake)
+* *Give As Good As I Get.* Sometimes you have to do something crazy in
+order to win a fight. Once per conflict, when you take physical stress,
+you may choose to incur an additional physical consequence. In exchange,
+you may create a situation aspect on your opponent with a number of free
+invocations: two for a minor consequence, three for a moderate, four for
+a severe. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Herculean Strength.* +2 to overcome or create advantage rolls with
+Physique that involve lifting great weights. (adapted from Spirit of the
+Century SRD, v6.19.1)
+* *Hulking Rage.* While you have the aspect _Enraged_ on you, you gain
++2 to overcome and create advantage with Physique. (Peter Blake)
+* *None Shall Pass.* +2 to defend with Physique against attempts to move
+past you. (Peter Blake)
+* *Now You've Made Me Mad.* (requires two other Endurance stunts.) Once
+per scene, after taking physical stress, you may spend a fate point to
+add the shift value of the attack (after any reduction by consequences)
+as a bonus to an action in the next exchange taken against the person
+who inflicted the stress. (adapted from Spirit of the Century SRD,
+v6.11.3)
+* *Smashing Rage.* While you have the aspect _Enraged_ on you, you gain
++2 to break inanimate objects with Physique. (Peter Blake)
+* *Trample.* Once per scene, when you succeed with style on a create
+advantage roll with Physique and place an aspect on an opponent, you may
+exchange one of your free invocations for a 2-shift hit on that
+opponent. (Peter Blake)

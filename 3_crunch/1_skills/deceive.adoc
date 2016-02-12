@@ -1,0 +1,248 @@
+= Deceive
+
+== Stunts
+
+=== Disguises and Covers
+
+* *Brilliant Disguise.* Once per scene, when you succeed on a Deceive
+roll to create a disguise, you succeed with style instead. (Peter Blake)
+* *Cover.* You have a cover identity you can assume. Describe your cover
+identity, choose a high concept and a trouble aspect for your cover
+identity, and choose an apex skill for your cover identity. You can
+assume that identity with enough preparation and the expenditure of a
+fate point. While you're in that identity, its high concept and trouble
+replace yours and you can use Deceive in place of its apex skill. You
+lose these benefits as soon as your cover is blown, and you may have to
+spend some time creating a new cover identity. (Fate System Toolkit,
+p.42)
+* *Double Life.* If you are in disguise at the start of a scene, you
+gain the aspect _Definitely Not <your real name>_ with one free
+invocation. If you are not in disguise at the start of a scene, you gain
+the aspect _Definitely Not <your secret identity>_ with one free
+invocation. These aspects go away at the end of each scene. (Peter
+Blake)
+* *Infiltrator.* (requires Master of Disguise.) While you are _Disguised
+as Someone Insignificant_ (see Master of Disguise) you may make a single
+Investigate roll against a target of Mediocre. Each shift gained can be
+used to do one of two things: gain a useful (but general) piece of
+information about the area or group being infiltrated, or leave a clue,
+hint or message for another character without revealing yourself.
+(adapted from Spirit of the Century SRD, v6.8.2)
+* *Instant Cover.* (requires Fast Talk.) You can whip up a cover story
+like no one's business, even if you haven't made an effort to establish
+it beforehand. Any time you overcome an obstacle in public using
+Deceive, automatically add a situation aspect representing your cover
+story, and stick a free invocation on it. (Fate Core, p.95)
+* *Master of Disguise.* (requires Mimicry and Quick Disguise.) You can
+convincingly pass yourself off as nearly anyone with a little time and
+preparation. To use this ability, you pay a fate point to disappear from
+the scene, gaining the _Disguised as Someone Insignificant_ aspect on
+yourself. At any subsequent point during play, you choose any nameless
+NPC in a scene and reveal that that character is actually you in
+disguise! You may remain in this state for as long as you choose, but if
+anyone is tipped off that you might be nearby, they may spend a fate
+point and roll Investigate against your Deceive to overcome the aspect.
+If the investigator wins, he gets to decide which filler character is
+actually you in disguise ("Wait a minute - you're the Emerald
+Emancipator!"). (adapted from Spirit of the Century SRD, v6.8.2)
+* *Mimicry.* You may create advantages with Deceive related to imitating
+the mannerisms and voice of anyone you've had a chance to study.
+Studying someone usually requires only an investment of time, and not a
+roll of the dice - at least half an hour of constant exposure. This
+timeframe can be reduced, but will require an Empathy, Investigate, or
+Deceive roll against a target of Mediocre - any shifts you get on the
+roll reduce the time required. (adapted from Spirit of the Century SRD,
+v6.8.2)
+* *One Person, Many Faces.* Whenever you meet someone new, you can spend
+a fate point to declare that you've met that person before, but under a
+different name and identity. Create a situation aspect to represent your
+cover story, and you can use Deceive in place of Rapport whenever
+interacting with that person. (Fate Core, p.104)
+* *Perfect Reflection.* +2 to create advantage or defend with Deceive
+when you are disguised as someone you know well and that disguise is in
+question. (Peter Blake)
+* *Quick Disguise.* (requires Fast Talk.) You're able to put together a
+convincing disguise in a heartbeat, using items from your surroundings.
+You can roll Deceive to create a disguise without any time to prepare,
+in nearly any situation. (Fate Core, p.95)
+* *Trick the Toffs.* +2 to Deceive when you disguise yourself as someone
+from the upper classes. (Peter Blake)
+* *Versatile Disguises.* You suffer no increased difficulty on Deceive
+rolls when disguising yourself as a person of different gender, height,
+skin tone, or age. (Peter Blake)
+
+=== Feinting and Feigning
+
+* *Dead For Sure.* (requires Play Dead.) While you are __Feigning
+Death__, no-one will even check to see if you really are dead until all
+of your allies have conceded or been taken out. (Peter Blake)
+* *Fast Feint.* (requires Feint.) Once per scene, you may roll Deceive
+to perform a feint as a free action. (Peter Blake)
+* *Feint.* When it looks like you're going to go right, you go left. And
+vice versa. +2 to create advantages with Deceive that relate to
+confusion and misdirection in physical combat. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Feint __En Masse__.* You may feint against every opponent in your
+zone in one action, dividing your shifts between them. (Peter Blake)
+* *Impenetrable Bluff.* You can bluff like a poker pro. Maybe you are a
+poker pro. +2 to create advantages or defend with Deceive when using it
+to trick people into believing that you are more capable or better
+positioned than you actually are. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Not a Threat.* Choose Deceive or Stealth when you take this stunt.
+When you create an advantage with that skill to make yourself as
+non-threatening or unobtrusive as possible, enemies will find other
+targets for as long as that aspect exists. As soon as you successfully
+attack someone, the aspect goes away. (Fate System Toolkit, p.42)
+* *Play Dead.* When you place an aspect like _Feigning Death_ on
+yourself, no-one can attack you while the aspect remains in play. (Peter
+Blake)
+* *Superior Feint.* (requires Feint.) Whenever you place an aspect on an
+opponent using the Feint stunt, you may defend against their melee
+attacks with Deceive until that aspect goes away. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Worthy Cringe.* +2 to create advantage with Deceive when you try to
+appear unthreatening during a physical combat. (Peter Blake)
+
+=== A Fool and His Money
+
+* *Crooked Dealer in Antiquities.* +2 to create advantages with Deceive
+based on the (false) monetary value of archaeological finds. (Peter
+Blake)
+* *Crooked Salesman.* You are skilled at subtly misrepresenting your
+goods or services to customers. +2 to Deceive when using it to sell
+something. (adapted from http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Faustian Pact.* Your job is to trick people into signing unfair
+contracts. When you have a copy of such a contract to hand, you gain +2
+on Deceive rolls to fool people into thinking it is fair. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Grifter/Professional Panhandler.* You profit from your lies,
+literally. +2 to Deceive when using it to fool someone into giving you
+money. (adapted from http://dfrpg-resources.wikia.com/wiki/Stunts)
+
+=== Gambling
+
+* *The Devil's Own Luck.* (requires one other stunt relating to
+gambling.) On games of pure chance, like roulette, where a character
+could not normally roll a skill to affect the outcome, you may use your
+Deceive skill at its full value. (adapted from Spirit of the Century
+SRD, v6.14.1)
+* *Double or Nothing.* Once per scene, when involved in a game of
+chance, you can declare "Double or Nothing!" This is a call for both
+sides to reroll (and as such doesn't involve fate points). If you win
+the next roll, the initial exchange is treated as a scratch (no loss to
+any participants), but if you lose (by whatever amount) the number of
+shifts you lose by is doubled. Regardless of the result, such a move
+often elevates the stakes of a game. This can turn a regular stakes game
+into a high stakes one, and a high stakes game into a matter of life and
+death. (adapted from Spirit of the Century SRD, v6.14.1)
+* *Know When to Fold 'Em.* Whenever gambling with NPCs, you may ask that
+the GM roll the NPC's Deceit in advance. Whenever the GM does this, the
+roll is automatically considered to be secret - she doesn't have to show
+it to anyone. The twist is that the GM must indicate to you whether the
+NPC's roll is above or below your Deceive skill - just not by how much.
+Given this knowledge, you may then choose whether you participates, or
+excuses yourself, from the gambling contest. If you do participate, the
+GM reveals the value of the roll, and may still spend fate points on
+behalf of her NPC as usual once the contest starts in earnest. (adapted
+from Spirit of the Century SRD, v6.14.2)
+* *Winnings.* You win at the gambling tables more than you lose, and are
+often flush with cash. Once per session, you may use Deceive instead of
+Resources to represent these winnings, so long as you haven't recently
+experienced a loss. You must provide a quick one-sentence explanation of
+what the resource is and how you won it, when using this stunt. (adapted
+from Spirit of the Century SRD, v6.14.2)
+
+=== Scot-Free
+
+* *Corroboration of Coincidence.* Fate favors your lies with minor
+coincidences and circumstantial evidence that seem to lend them
+credence. You may apply a boost to the scene before you roll Deceive, so
+long as you can describe how it helps you look more honest. If
+successful, the boost turns into an aspect on the scene. (Fate System
+Toolkit, p.96)
+* *Hey, What's That?* (requires Fast Talk.) Gain a +2 bonus whenever
+you're using Deceive to momentarily distract someone, as long as part of
+the distraction involves saying something. (Fate Core, p.95)
+* *Houdini.* You could be found by the police standing next to a
+burned-down church with a handful of matches and a can of gasoline and
+still get away scot-free. +2 to Deceive when using it to defend against
+attempts to discern or prove your involvement in a crime. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Low Profile.* You always provide active opposition to attempts to
+locate you with Investigate. (Peter Blake)
+
+=== New Actions
+
+* *The Appearance of Wealth.* You seem like a wealthy and powerful
+person, regardless of the reality. You may use Deceive in place of
+Resources as long as no actual money or goods need to change hands.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Con Man.* You are a bona fide confidence man, and that lets you get a
+read on people, easy. You may use Deceive instead of Empathy to read a
+person's emotional state and get a general sense of who they are, but
+the type of aspects that may be assessed or created are limited to
+things like their trouble or other negatively skewed/easily exploitable
+aspects. (adapted from Spirit of the Century SRD, v6.8.1)
+* *"Honest" Lawyer.* Okay, maybe they don't exist. But most people would
+say that you are one, anyway. You may use Deceit instead of Lore
+whenever knowledge of the law or legal matters are involved. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Illusion of Grandeur.* Making a good first impression is all about
+misrepresenting yourself. Whenever you meet a new person, you may use
+Deceit instead of Rapport to influence them. This option vanishes as
+soon as you fail one of the Deceit rolls. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *It's Just Creative Lying.* Really, acting is just an advanced form of
+lying. You may use your Deceive skill instead of Rapport when acting.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Mind Games.* You can use Deceive in place of Provoke to make mental
+attacks, as long as you can make up a clever lie as part of the attack.
+(Fate Core, p.104)
+* *Players' Club.* (requires one other stunt relating to gambling.)
+You've played in so many games, and in so many places, that it's rare
+that you can't find someone who knows you. You may use your Deceit skill
+instead of Contacts whenever making a Contacts roll - though doing so
+invariably colors the results with the nature of gambling. (adapted from
+Spirit of the Century SRD, v6.14.2)
+* *Shield of Lies.* Your lies run so deep that you almost believe them
+yourself. You may use Deceive to defend against mental attacks whenever
+an opponent focuses on a truth you consistently deny. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Takes One to Know One.* As an accomplished liar, you're especially
+able to figure out when someone else is lying as well. You may use
+Deceive instead of Empathy to defend against Deceive actions. (adapted
+from Spirit of the Century SRD, v6.8.3)
+
+=== Other
+
+* *Bait of Words.* Gain an additional +2 to Deceive whenever you invoke
+an advantage you personally created by speaking to the target and
+rolling Rapport. (Peter Blake)
+* *Fast Talk.* You get a +2 to overcome obstacles with Deceive, provided
+you don't have to talk to the person you're trying to deceive for more
+than a few sentences before blowing past them. (Fate Core, p.95)
+* *Founded Upon Lies.* You are very good at turning innocuous lies into
+devastating ones. Once per scene, when you succeed on a Deceit roll, you
+may succeed with style instead. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *"Good Intentions."* Everyone you meet is certain that you intend
+nothing but what is best for everyone. Add two to your Deceive skill
+when using it to create advantages related to feigned benevolence or
+friendship. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *The Honest Lie.* The best lies are the ones that contain a healthy
+dose of truth. You gain a +2 to Deceive whenever you incorporate a hefty
+portion of the truth into a lie. The truth must be relevant, not
+unimportant, and significant, not trivial - it must be on par with (or
+bigger than) the lie, or at least in the ballpark. (adapted from Spirit
+of the Century SRD, v6.8.3)
+* *Lies upon Lies.* +2 to create a Deceive advantage against someone who
+has believed one of your lies already during this session. (Fate Core,
+p.104)
+* *Master Manipulator.* You can treat other people like chess pieces and
+make it work. +2 to attack and create advantages with Deceive whenever
+you try to trick your target into following a preset plan of yours.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *One Big Lie.* Pick one specific statement that isn't true. You gain
++2 to Deceive when using it to convince someone that that statement is
+true. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)

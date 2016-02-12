@@ -1,0 +1,94 @@
+= Notice
+
+== Stunts
+
+=== Reflexes
+
+* *On Top Of It.* You may spend a fate point to go first in an exchange,
+regardless of your Notice. If multiple people with this stunt exercise
+this ability, they go in turn based on their skills, before those who
+don't exercise the stunt get a chance to act. If the exchange has
+already started, and you have not yet acted, you may instead spend a
+fate point to act next, out of the usual turn order. (adapted from
+Spirit of the Century SRD, v6.3.1)
+* *Ready for Anything.* (requires On Top Of It.) Your senses are so
+keyed into minute changes that you are able to respond more quickly to
+new details. Your Notice is considered to be one higher for purposes of
+determining turn order. This stunt breaks ties whenever facing opponents
+with the same Notice. This stunt may be taken multiple times, each time
+increasing the character's effective Notice by 1. (adapted from Spirit
+of the Century SRD, v6.3.1)
+* *Run Interference.* (requires Ready for Anything.) Whenever it is
+determined that you provide active opposition to another character's
+action, you may spend a fate point. When you do, the other character may
+choose to attempt another action instead. If they do not, you receive +2
+on your defend roll against the original action. (adapted from Spirit of
+the Century SRD, v6.3.1)
+
+=== Vigilance
+
+* *Constant Vigilance.* (requires Saw It Coming.) When you are ambushed,
+gain a further +2 to the first defend roll you make. (adapted from
+Spirit of the Century SRD, v6.3.2)
+* *Danger Sense.* You have an almost preternatural capacity for
+detecting danger. Your Notice skill works unimpeded by conditions like
+total concealment, darkness, or other sensory impairments in situations
+where someone or something intends to harm you. (Fate Core, p.117)
+* *Saw It Coming.* (requires Danger Sense.) When you are ambushed, gain
++2 to any defend rolls you make in the first exchange. (adapted from
+Spirit of the Century SRD, v6.3.2)
+* *The Eye Gazes in All Directions.* You are never surprised. Even if
+it's only by a moment, you are always forewarned of the unexpected.
+(Fate System Toolkit, p.93)
+* *Sentry.* You have the ability to wait, devoting your full effort to
+watchfulness, for hours on end. +2 to defend with Notice whenever you
+are tired. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Take It All In.* Once per scene you can spend a fate point (and a few
+minutes of observation) to make a special Notice roll representing
+opening your senses to a location. For each shift you make on this roll
+you discover or create an aspect related to direct observation on the
+scene, though you may only invoke one of them for free. (adapted from
+Spirit of the Century SRD, v6.3.2)
+
+=== New Actions
+
+* *Body Language Reader.* You can use Notice in place of Empathy to
+learn the aspects of a target through observation. (Fate Core, p.117)
+* *Master of the Tell.* (requires Notice Tell.) Long practice has made
+you incomparably good at noticing the mannerisms that accompany
+deception. +2 to Notice when using it to defend against Deceive.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Notice Tell.* Your keen senses allow you to pick up on the subtle
+clues that indicate when a person is lying. You may use Notice to defend
+against Deceive. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Reactive Shot.* You can use Notice instead of Shoot to make quick,
+reactive shots that don't involve a lot of aiming. However, because
+you're having a knee-jerk reaction, you're not allowed to concretely
+identify your target before using this stunt. So, for example, you might
+be able to shoot at someone you see moving in the bushes with this
+stunt, but you won't be able to tell if it's friend or foe before you
+pull the trigger. Choose carefully! (Fate Core, p.117)
+
+=== Other
+
+* *The Advantage of Familiarity.* There are benefits to knowing a place
+really well. Pick a location or a small neighbourhood. +2 to Notice
+while you are in that area. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Attention!* You have been trained to follow orders instantly in
+combat. When determining turn order for a physical conflict, you may use
+an ally's Notice skill instead of your own. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Game Hunter's Eye.* Choose a type of animal. You gain +2 to create
+advantage or overcome with Notice to spot that kind of animal. (Peter
+Blake)
+* *Heightened Awareness.* +2 to defend with Notice during a physical
+conflict. (Peter Blake)
+* *Hidey-Holes.* +2 to create advantage with Notice based on finding a
+suitable location to stay hidden. (Peter Blake)
+* *Keen Sense.* Choose a physical sense (e.g. sight, hearing, touch,
+taste, smell). You gain +2 to defend or overcome with Notice when that
+sense is the primary one being used. (Peter Blake)
+* *Recognise Imposter.* +2 to overcome with Notice when faced someone
+claiming to be a celebrity or someone you know well. (Peter Blake)

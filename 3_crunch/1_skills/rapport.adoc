@@ -1,0 +1,145 @@
+= Rapport
+
+== Stunts
+
+=== Art
+
+* *Do You Know Who I Am?* (requires Virtuoso.) Once per scene, you may
+identify yourself in order to get your way and add +2 to a Contacts,
+Deceive, Provoke, or Rapport roll. (adapted from Spirit of the Century
+SRD, v6.4.4)
+* *Moving Performance.* (requires Virtuoso.) When you create an
+advantage with Rapport using your art, the difficulty of removing the
+resulting aspect increases by +2. (adapted from Spirit of the Century
+SRD, v6.4.2)
+* *Stage Presence.* (requires Virtuoso.) +2 to overcome distractions
+with Rapport while performing. (adapted from Spirit of the Century SRD,
+v6.4.3)
+* *Virtuoso/Artist.* Choose a field of art, such as painting,
+composition, or singing. You get a +2 to all Rapport rolls relating to
+that art. (adapted from Spirit of the Century SRD, v6.4.2)
+
+=== Oratory
+
+* *Demagogue.* +2 to Rapport when you're delivering an inspiring speech
+in front of a crowd. (If there are named NPCs or PCs in the scene, you
+may target them all simultaneously with one roll rather than dividing up
+your shifts.) (Fate Core, p.121)
+* *Excellent Speaker.* Public speaking is an everyday thing to you. +2
+to Rapport whenever you make a formal speech to a group. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+
+=== Specific Audiences
+
+* *Another Round?* +2 to Rapport when drinking with someone in a tavern.
+(Fate Core, p.298)
+* *Blood is Thicker Than Water.* +2 to Rapport when dealing with members
+of your extended family. (Peter Blake)
+* *Captain's Word.* Once per scene, you may roll Rapport to command your
+crew as a free action. (Peter Blake)
+* *Child of the Court.* Gain a +2 bonus to any attempt to overcome
+obstacles with Rapport when you're at an aristocratic function, such as
+a royal ball. (Fate Core, p.90)
+* *Good Cop.* Kindness is more effective when given a basis for
+comparison. +2 to Rapport when creating advantages to assist someone who
+has the Bad Cop stunt. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Honest Salesman.* Making a sale comes as naturally to you as
+breathing. +2 to Rapport when using it to sell goods or services.
+(adapted from http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Master of the Mob.* +2 to Rapport when dealing with a crowd or mob.
+(Peter Blake)
+* *Negotiator.* +2 to Rapport when you try to broker an end to an armed
+conflict. (Peter Blake)
+* *Scion of the Court.* (requires Child of the Court.) When you overcome
+an obstacle with Child of the Court, you may additionally create a
+situation aspect that describes how the general attitude turns in your
+favor. If anyone wants to try and get rid of this aspect, they must
+overcome Fair (+2) opposition. (Fate Core, p.94)
+* *Target Audience.* Pick a specific field of endeavour, such as crime,
+business, politics, espionage, or the occult. Gain +2 to Rapport rolls
+whenever dealing with someone from that field. (adapted from Spirit of
+the Century SRD, v6.7.2)
+
+=== New Actions
+
+* *All the World's a Stage/Playing to Expectations.* (requires one other
+Rapport stunt.) Your acting talent is natural and unquestionable. You
+may roll Rapport instead of Deceive when convincing a target you are
+someone you aren't. (adapted from Spirit of the Century SRD, v6.4.3)
+* *Animal Whisperer.* You may use Rapport instead of Lore to issue
+commands to animals. (Peter Blake)
+* *Blather.* It's not that you're a good liar - possibly far from it.
+It's more that you have a skill at talking so fast, and not letting the
+other guy get a word in edgewise, that he doesn't ever get the chance to
+figure out if you're lying or not. You may create an aspect such as
+_Blathering_ on yourself which justifies active opposition to Alertness
+rolls in your zone. You cannot take other actions while blathering, but
+you may spend a fate point to negate any successful roll that overcomes
+the aspect. The targets of this effort are by no means helpless - if
+they are attacked or otherwise disturbed they may respond normally, and
+they will respond to obvious stimuli (friends being attacked in their
+line of sight, fire alarms going off and such). However, they are
+definitely distracted. Once you stop talking, it may be time for a quick
+exit. (adapted from Spirit of the Century SRD, v6.22.2)
+* *Commissions.* (requires Virtuoso.) Your works and performances are
+heavily sought out, and there are those who will pay handsomely for it.
+Once per session, you may use Rapport in place of Resources for one
+roll, representing a successful past commission. (adapted from Spirit of
+the Century SRD, v6.4.4)
+* *Large Ham.* You may use Rapport in place of Provoke to intimidate
+someone. (Peter Blake)
+* *Popular.* If you're in an area where you're popular and well-liked,
+you can use Rapport in place of Contacts. You may be able to establish
+your popularity by spending a fate point to declare a story detail, or
+because of prior justification. (Fate Core, p.121)
+* *The Right Questions.* Smaller parts of a larger truth can contain a
+blueprint of the whole - and as a skilled conversationalist, you are
+adept at pulling the larger truth out of a single individual. Provided
+the person you're talking to is at least neutral towards you, you may
+use your Rapport skill instead of Contacts for any effort to network.
+The results are limited and colored by the knowledge available to the
+person with whom you speak. (adapted from Spirit of the Century SRD,
+v6.22.2)
+* *Weight of Reputation.* (requires Do You Know Who I Am?) For a fate
+point, you may use Empathy in place of Contacts, Deceive or Provoke,
+provided those you are dealing with are aware of your reputation.
+(adapted from Spirit of the Century SRD, v6.4.4)
+
+=== Other
+
+* *All Things in Their Place.* You always know the power dynamic in the
+room, and you may insert yourself within it anywhere you desire. Use
+this with caution-while it impacts how people interact with you, it does
+not equate to actual authority, and placing yourself too
+highly-especially over people not used to being anything but top dog-can
+inspire an unpleasant response. (Fate System Toolkit, p.98)
+* *Best Foot Forward.* Twice per session, you may upgrade a boost you
+receive with Rapport into a full situation aspect with a free
+invocation. (Fate Core, p.121)
+* *First Impressions.* Whenever an opponent succeeds with style against
+the first Rapport roll you make in a scene, they do not gain a boost.
+(adapted from Spirit of the Century SRD, v6.22.1)
+* *Five Minutes Friends.* For a fate point, you can make a steadfast
+friend in a place you've never been, given a chance for five minutes of
+conversation. This stunt makes nearly impossible opportunities to make
+friends merely improbable, improbable opportunities probable, and
+probable opportunities outright certain. (Spirit of the Century SRD,
+v6.22.1)
+* *Heart on My Sleeve.* You're a regular stand up guy with no secrets,
+at least so far as anyone can tell. But even so, you're in control of
+which part of your best face you're putting forward. +2 to defend with
+Rapport against attempts to read your emotional state. (adapted from
+Spirit of the Century SRD, v6.22.2)
+* *International.* Your mastery of etiquette leaves you comfortable, and
+even glib, in any situation. You never suffer any increased difficulty
+from unfamiliarity with your setting, making it easy to maneuver through
+local customs you haven't encountered before, and to cover up any gaffes
+with a laugh and a sparkle in your eye. (adapted from Spirit of the
+Century SRD, v6.22.1)
+* *Rustic Charm.* You suffer no increased difficulty on Rapport rolls
+due to your social class. (Peter Blake)
+* *Smooth Over.* You're adept at stepping into a bad situation and
+dialing it down to something more reasonable. So long as you are not the
+direct reason someone is upset, your attempts to calm them down using
+your Rapport receive a +2 bonus. (Spirit of the Century SRD, v6.22.2)

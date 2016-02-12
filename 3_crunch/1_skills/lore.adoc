@@ -1,0 +1,261 @@
+= Lore
+
+== Stunts
+
+=== Beasts
+
+* *Animal Affinity.* Pick a particular type of animal (cats, rodents,
+horses or the like). At the start of any scene, if that type of animal
+could reasonably appear in the location where the scene is set, you may
+make a Lore check against a difficulty of Fair (+2). If you succeed,
+there is an animal of this type in the scene. (Peter Blake)
+* *Animal Friend.* Pick a particular type of animal (cats, rodents,
+horses or the like). You can communicate with animals of this type using
+a combination of speech and gestures. This doesn't connote a special
+level of intelligence on the part of the animals, so the communication
+may be relatively simple. You also gain +2 to your rolls when
+interacting socially with animals of this type. (adapted from Spirit of
+the Century SRD, v6.28.1)
+* *Kindred Beast.* (requires Wild Empathy.) Choose a type of animal. You
+gain a further +2 to create advantage or overcome when you try to calm
+or communicate with animals of that kind. (Peter Blake)
+* *King of the Beasts.* (requires Animal Friend.) This stunt functions
+as Animal Friend does, but the character may speak to an entire broad
+category of animals, rather than just one type. For purposes of this
+ability there are three main categories - creatures from or from near
+the sea (fish, whales, seabirds), creatures from the land (dogs,
+primates, cats, birds) and vermin (bugs, rats and other small scuttling
+things). There is loose overlap between these categories - pigeons are
+in all three - and the GM is encouraged to be generous in her
+interpretation. (adapted from Spirit of the Century SRD, v6.28.1)
+* *Wild Empathy.* +2 to create advantage or overcome with Lore when you
+try to calm or communicate with animals. (Peter Blake)
+
+=== Languages
+
+* *The Blessing of a Thousand Tongues.* You may learn any language
+quickly. With tutelage, it takes only a day. With only the opportunity
+to read or listen, it takes a week. If the source material is especially
+sparse, it may take as long as a month. (Fate System Toolkit, p.94)
+* *Gift of Tongues.* (requires Linguist). There is no "mainstream"
+earthly language you cannot read or speak. Not only that, but you read
+and speak languages you have no business having learned, such as
+languages from lost cultures. You may spend a fate point to declare that
+you know any particular language, no matter how strange. (adapted from
+Spirit of the Century SRD, v6.2.1)
+* *Linguist.* You know a wide range of languages. +2 to Lore whenever
+reading, writing, speaking or translating an unusual language. (adapted
+from Spirit of the Century SRD, v6.2.1)
+* *Shared Humanity.* Once per scene, you can communicate a short message
+to another human even if you do not speak a common language. (Peter
+Blake)
+
+=== Memory
+
+* *Photographic Memory.* (requires Walking Library.) +2 to Lore rolls
+whenever you lack direct access to research materials and the answer you
+seek lies in something you have read before. (adapted from Spirit of the
+Century SRD, v6.2.2)
+* *Studied Recall.* (requires Photographic Memory.) Your photographic
+memory extends outside of books. Once per scene, you may spend a fate
+point and roll Lore against a difficulty of Mediocre. Each shift you
+generate may be used to specify a target that you wish to memorize as
+you might a book - returning later, in your mind, to assess new details
+(using an appropriate perception skill, usually Investigate). (This
+ability differs from Investigate's Eye for Detail stunt in that Eye for
+Detail covers the entire location, after the fact, whereas Studied
+Recall requires you to specify which individual pieces of a location you
+are studying, while you are still in that location.) (adapted from
+Spirit of the Century SRD, v6.2.2)
+* *Walking Library.* Your prodigious reading has paid off in spades, and
+you are able to recall minute details from even the most obscure
+literary works. You don't ever have to spend a fate point to declare
+that you have the proper tools for research using Lore, even in extreme
+situations (like being imprisoned and unable to access a library). This
+source of opposition is just off the table. (adapted from Spirit of the
+Century SRD, v6.2.2)
+
+=== Medicine
+
+* *Drinking from the Jug.* You pause to take a swig of wine from your
+jug, fortifying yourself for the battle. When you have a drink during a
+fight, clear your lowest stress box. This requires you to take an entire
+action drinking. (Fate System Toolkit, p.150)
+* *Forensic Medicine.* You can use Lore in place of Investigate when the
+subject involves medical evidence. (adapted from Spirit of the Century
+SRD, v6.25.1)
+* *Heal Thyself.* (requires Scholar, Healer.) +2 to treat your own
+physical consequences with Lore. (Peter Blake)
+* *Herbal Remedies.* +2 to Lore rolls related to gathering plants
+suitable for treating the sick or injured. (Peter Blake)
+* *Plastic Surgeon.* (requires Scholar, Healer.) You know how to
+rearrange someone's face permanently. When you operate on a patient, you
+may use Lore to inflict physical stress on them. The greater the change
+you wish to make, the graver the consequence you must successfully
+inflict. (The GM decides what level of consequence is required for each
+change, and the consequence acts as justification for the patient to
+change an aspect to one relating to physical appearance at the next
+milestone. To alter an aspect against a character's will requires you to
+inflict an extreme consequence.) (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Pouring Wine.* (requires Drinking from the Jug.) You take out a cup
+and pour a drink from your jug. This elaborate and difficult task causes
+a pause in the battle. No one may attack you while you pour, and you
+remove your lowest stress mark. This technique requires an entire
+action, and you may not perform the technique more than once in a row.
+(Fate System Toolkit, p.150)
+* *Scholar, Healer.* Can make physical recovery attempts with Lore.
+(Fate Core, p.300)
+* *Surgeon/Medical Specialist.* (requires Scholar, Healer.) You are a
+respected authority in a specific field of surgical or therapeutic
+medicine; define it at the time you take this stunt. Possibilities
+include heart or brain surgery, transplant operations, disease
+pathologies, and so on. You get a +2 to all Lore rolls relating to that
+field. (adapted from Spirit of the Century SRD, v6.25.1)
+
+=== Scholarship
+
+* *Dizzying Intellect.* (requires Specialist.) Your area of knowledge is
+so advanced, there's usually no one around who can tell if you're making
+things up. You may use Lore in place of Deceive to tell lies related to
+your field of specialization. (adapted from Spirit of the Century SRD,
+v6.2.3)
+* *It's Academic.* (requires Specialist.) Once per scene you can spend a
+fate point (and a few minutes of observation) to make a special Lore
+roll representing a flash of insight. For each shift you make on this
+roll you discover or create an aspect related to your field of
+specialization, on either the scene or the target of your observations,
+though you may only invoke one of them for free. (adapted from Spirit of
+the Century SRD, v6.2.3)
+* *Secrets of the Stacks.* Pick a specific library or other large
+information resource. You are intimately familiar with this resource's
+quirks, and gain a +2 to Lore whenever you have sufficient time to
+consult it. (Peter Blake)
+* *Specialist.* Choose a field of specialization, such as herbology,
+criminology, or zoology. You get a +2 to all Lore rolls relating to that
+field of specialization. (Fate Core, p.115)
+* *Tutor.* +2 to create advantage on an ally with Lore when you spend an
+hour or so coaching them on an appropriate topic. (Peter Blake)
+
+=== Survival
+
+* *Caveman Lifestyle.* You know how to live naked in the wilderness.
+When you undertake survival activities, you never suffer increased
+difficulty due to a lack of tools. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Due North.* You always know which direction north is, flawlessly,
+even underground, without a compass or stars to guide you. You gain a +2
+to Lore rolls whenever trying to find your way out of a place. (adapted
+from Spirit of the Century SRD, v6.28.2)
+* *Forager.* Choose a natural habitat (e.g. forests, grasslands,
+deserts, oceans, or caves). You gain +2 to Lore when gathering food in
+that habitat. (Peter Blake)
+* *Natural Dowser.* +2 to create advantage with Lore when you seek
+sources of water. (Peter Blake)
+* *Pathfinder.* Navigating on foot with your Lore skill works impeded by
+poor visibility or difficult terrain. (Peter Blake)
+* *Scout the Path.* +2 to create advantage with Lore when blazing a
+trail through the wilderness. (Peter Blake)
+* *Self-Sufficient.* You don't ever have to spend a fate point to
+declare that you are able to find enough food and water for yourself,
+even in extreme situations (like being dumped in the middle of the
+desert and separated from all your stuff). This source of opposition is
+just off the table. (Peter Blake)
+
+=== New Actions
+
+* *Advanced Ritualist.* (requires Ritualist.) You gain a +2 bonus when
+you use Lore in place of another skill during a challenge. This allows
+you to use Lore twice in the same challenge. (Fate Core, p.94)
+* *Actions Speak Louder Than Words.* Dealing with animals, who don't
+talk, has given you an excellent grasp of body language. You may use
+your Lore skill instead of Empathy to defend against attempts to attack
+or create advantage with Deceive. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Animal Magnetism.* It's a bit demeaning to equate seduction to animal
+training, but in your experience there isn't all that much difference
+between the two activities. You may use Lore instead of Provoke to
+seduce people. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Cracker.* You may use Lore in place of Burglary to defeat
+computerised security. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Formal Logic/Master of Riddles.* Your intelligence lets you run
+circles around those you talk to. This may take the form of actual
+riddles, or perhaps just complex logical arguments. You may use Lore to
+make attacks that inflict mental stress and to create advantages related
+to confusing and overaweing people. Such actions can be defended against
+with Rapport, Lore, or Empathy. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Frontiersmen Have To Improvise.* Making stuff out of the things
+around you is an integral part of wilderness survival. You may use Lore
+in place of Crafts to build things out of scavenged materials. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Outdoorsman.* Your extensive field experience helps you operate in
+the wild. You may roll Lore instead of Stealth whenever you are in the
+wilderness, and may also roll Lore instead of Investigate for tracking
+in those areas. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Pre-Prepared Counterpoint.* You've heard that argument before, and
+you know how to defeat it. You may use Lore to defend against Rapport.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Professional Teacher.* You may use Lore in place of Rapport to
+interact with your students. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Ritualist.* Use Lore in place of another skill during a challenge,
+allowing you to use Lore twice in the same challenge. (Fate Core, p.91)
+* *Shield of Reason.* You can use Lore as a defense against Provoke
+attempts, provided you can justify your ability to overcome your fear
+through rational thought and reason. (Fate Core, p.115)
+* *Theory in Practice.* (requires Specialist.) Once per scene you can
+spend a fate point to use Lore in place of any other skill for one roll.
+(adapted from Spirit of the Century SRD, v6.25.2)
+* *They're In the Trees.* Basic wilderness survival includes a great
+deal of stealth. You may use Lore in place of Stealth as long as you are
+outdoors. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Well-Travelled.* You may use Lore instead of Rapport when you have
+visited the homeland or home state of the person you are speaking to.
+(Peter Blake)
+
+=== Other
+
+* *Arcane Expert.* Gain a +2 bonus to create an advantage using Lore,
+whenever the situation has specifically to do with the supernatural or
+occult. (Fate Core, p.90)
+* *Bletchley's Finest.* +2 to overcome with Lore when cracking a code.
+(Peter Blake)
+* *Dealer in Antiquities.* +2 to create advantages with Lore based on
+the monetary value of archaeological finds. (Peter Blake)
+* *Experimenter.* While others are content to read the journals, you
+have the training and drive to perform cutting-edge research. +2 to Lore
+whenever you run original scientific experiments or gather original
+research data. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *The Eye Sees All Paths.* You may not know everything, but you always
+know how to find out. When looking for a fairly specific piece of
+information, you may give the GM a fate point to be told the closest
+place you can go to find out, no matter how obscure or lost the
+information is. In short, you can never hit a wall when trying to find
+something out. There are no guarantees of how easy it will be to get the
+knowledge, but that's what adventure is for. (Fate System Toolkit, p.93)
+* *I've Read about That!* You've read hundreds-if not thousands-of books
+on a wide variety of topics. You can spend a fate point to use Lore in
+place of any other skill for one roll or exchange, provided you can
+justify having read about the action you're attempting. (Fate Core,
+p.115)
+* *Keeper of Folklore.* +2 to Lore when recalling the history or legends
+of your people. (Peter Blake)
+* *Legal Eagle.* +2 to overcome or create an advantage with Lore,
+whenever you are finding or exploiting loopholes in the law. (adapted
+from Spirit of the Century SRD, v6.18.2)
+* *Meteorologist.* You are trained as a meteorologist and so you are
+skilled at weather prediction. +2 to Lore when creating advantages to do
+with the weather. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *World Court.* (requires Legal Eagle.) Your exposure to international
+law is so extensive that you're at ease in any situation involving legal
+wrangling, wherever you are. You never suffer any increased difficulty
+from a lack of familiarity with the laws of your locale; your experience
+is so broad that you've either know it already, or can make highly
+educated guesses about how it functions. (Spirit of the Century SRD,
+v6.18.2)

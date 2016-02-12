@@ -1,0 +1,81 @@
+= Resources
+
+== Stunts
+
+(Stunts related to business are included here, on the basis that wealth
+and the skills to manage that wealth go together.)
+
+=== New Actions
+
+* *Grease the Wheels.* You can use Resources instead of Rapport in any
+situation where bribes will be accepted. (adapted from Spirit of the
+Century SRD, v6.24.1)
+* *Help Wanted, Reward Offered.* You can use Resources instead of
+Contacts whenever you make it public exactly what or who you are looking
+for. (adapted from Spirit of the Century SRD, v6.24.1)
+* *Glitterati.* Money can, in fact, buy friends. You may use Resources
+in place of Contacts when in high society. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Instant Functionary.* You're skilled at seeing the shape of an
+organization from the underside, and in organizations of sufficient
+size, you can easily convince anyone that you're just another cog in the
+machine. This allows you to substitute your Resources skill for Deceive
+whenever pretending to fill the role of a minor functionary of a target
+organization. (adapted from Spirit of the Century SRD, v6.18.3)
+* *Money Talks.* You can use Resources instead of Rapport in any
+situation where ostentatious displays of material wealth might aid your
+cause. (Fate Core, p.123)
+* *My Wallet Has A Lot To Say.* (requires Money Talks.) +2 to Resources
+whenever you use the Money Talks stunt. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *War of Papers.* You can take action against organizations through
+indirect measures. Effectively you can fight on the level of any
+organization smaller than a nation without the need to recruit allies or
+have any organization of your own. Yes, this means you can effectively
+"kill" a city, or even an army, given enough time. (Fate System Toolkit,
+p.98)
+
+=== Other
+
+* *Best That Money Can Buy.* You have a discerning taste and a natural
+instinct for spending your money to get exactly the best and nothing
+less. You are at +2 to your Resources whenever making a purchase of
+something that would be considered "the best." While this may seem like
+a discount, it's not, really, since seeking out the best may mandate a
+price mark several steps above the baseline; still, this stunt helps to
+soften the blow. (adapted from Spirit of the Century SRD, v6.24.3)
+* *Long Term Investment.* You've had your money for a while now, and
+you've had a chance to make several strategic investments which you can
+cash in on when pressed for money. Once per session, you may sell one of
+these investments to get a +2 to any one Resources roll. (Spirit of the
+Century SRD, v6.24.3)
+* *Licenses for Everything.* You suffer no increased penalties on
+Resources rolls related to legal restrictions on goods. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Money Is No Object.* (requires two other Resources stunts.) Once per
+session, when called on to roll Resources, you may spend a fate point
+and simply act as if you had rolled +4 on the dice. You may do this
+after the fact on a roll. Your Resources skill will then operate at -2
+for the rest of the session; you've simply tapped into everything at
+your disposal to make the purchase. (adapted from Spirit of the Century
+SRD, v6.24.3)
+* *Rivers of Gold.* Money is just a detail to you. Stripped naked and
+cast on a desert island, and you'll be living in luxury in short order.
+Cast into prison, and you'll be bribing guards in no time. No situation
+will restrict your access to your Resources skill. (Fate System Toolkit,
+p.98)
+* *Savvy Investor.* You get an additional free invoke when you create
+advantages with Resources, provided that they describe a monetary return
+on an investment you made in a previous session. (In other words, you
+can't retroactively declare that you did it, but if it happened in the
+course of play, you get higher returns.) (Fate Core, p.123)
+* *Trust Fund Baby.* Twice per session, you may take a boost
+representing a windfall or influx of cash. (Fate Core, p.123)
+* *Useful Little Things.* Your pockets are full of useful little things.
+Whenever you need something, you have it, provided it's not something
+_too_ unusual (like a map to Jimmy Hoffa's body) or too large to fit in
+a pocket, belt pouch, or backpack. When you say you have something, the
+GM should be likely to agree. (Fate System Toolkit, p.34)
+* *Wholesale Pricing.* Pick a type of business (e.g. supermarket,
+sporting goods, electronics). You gain +2 to Resources when you attempt
+to purchase something which that business sells. (Peter Blake)

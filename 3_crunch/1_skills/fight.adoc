@@ -1,0 +1,314 @@
+= Fight
+
+== Stunts
+
+=== Against Multiple Opponents
+
+* *Army of One/The King Still Stands.* (requires Brawler.) You are a
+one-man army; the odds don't matter to you. Whenever you are physically
+attacked by a mob, opponents in that mob do not get a teamwork bonus to
+their attacks. (adapted from Spirit of the Century SRD, v6.13.1)
+* *Army on the Edge of My Blade.* You take no penalty-and grant no
+bonus-for being outnumbered, no matter how preposterous the numbers.
+(Fate System Toolkit, p.97)
+* *Brawler.* You're at home in any big old burly brawl, with multiple
+opponents and ideally some beer in you. When fighting a mob of nameless
+NPCs, you deal one additional stress on a successful physical hit.
+(adapted from Spirit of the Century SRD, v6.13.1)
+* *Follow-Through.* Once per conflict, when you inflict a physical
+consequence on an opponent with Fight, you may also inflict a 2-point
+physical hit on another opponent in the same zone. (Peter Blake)
+* *Whirlwind Attack.* You may make a Fight attack against every opponent
+in your zone, dividing your roll between them as you see fit. (Peter
+Blake)
+
+=== Against Specific Opponents
+
+* *Advanced Warmaster.* (requires Warmaster.) When you're fighting
+anyone who is armed with a sword, you get a further +2 bonus to creating
+an advantage using Warmaster. (Fate Core, p.94)
+* *Destroyer of Abominations.* You hit harder when your enemy is
+something blasphemous. You gain +2 to attacks with Fight against
+creatures that are unusually offensive to your faith. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Favored Enemy.* Choose an organisation or ethnic group. You gain +2
+on attacks made with Fight against a member of that group. (Exercise
+discretion in the use of this stunt. A racist villain is probably OK,
+but a racist PC is almost certainly not.) (Peter Blake)
+* *Favored Enemy Parry.* Choose an organisation. You gain +2 to defend
+with Fight against members of that group. (Peter Blake)
+* *Mirror Stance.* Your unusual fighting style lets you defend
+effortlessly when you and your opponent are similarly armed. +2 to
+defend with Fight whenever your opponent attacks you with the same kind
+of weapon as you wield. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Reflection Shatters the Mirror.* (requires Mirror Stance.) You can
+switch in a heartbeat from matching your opponent move for move to doing
+precisely the opposite. +2 to attack with Fight whenever your opponent
+wields the same kind of weapon as you do. (adapted from http://dfrpg-*
+*Unorthodox Fighting.* People with formal training are less able to
+defend against your tomfoolery in combat. +2 to attacks with Fight
+against opponents who strictly adhere to a formal style of combat.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Counterattacks
+
+* *Riposte.* If you succeed with style on a Fight defense, you can
+choose to inflict a 2-shift hit rather than take a boost. (Fate Core,
+p.91)
+* *Turnabout.* (requires Riposte.) When you succeed with style on a
+Fight defense, instead of taking a boost, you may spend a fate point to
+inflict physical stress equal to the shifts you got on your defense
+roll. You may only do this once per opponent per scene. (adapted from
+Spirit of the Century SRD, v6.29.1)
+
+=== Defending Others
+
+* *Ally's Shield.* You can invoke _Dwarven Shield-Maiden_ when a nearby
+ally suffers an attack. When you do, redirect that attack to yourself.
+Your defense is Average (+1) against that attack. (Fate System Toolkit,
+p.34)
+* *Defend the Weak.* When someone is attacked physically while within
+your zone, you can spend a fate point to redirect that attack to
+yourself. You may defend against that attack at +1. (Fate System
+Toolkit, p.41)
+* *Leave My Friends Alone!* +2 to attack with Fight when your opponent's
+most recent action was to attack one of your allies. (Peter Blake)
+
+=== Disarming
+
+* *Close at Hand.* You can bring your weapon to hand faster than the eye
+can track. If the difficulty of overcoming an aspect of _Disarmed_ or
+similar is Fair (+2) or less, you may overcome it as a free action. If
+the difficulty is higher, instead gain +2 on the roll to overcome that
+aspect. (adapted from Spirit of the Century SRD, v6.15.3)
+* *Disarming Specialist.* You have been trained in how to disarm an
+armed combatant. Once per scene per opponent, when you successfully
+defend against an attack with a melee weapon, you may sacrifice your
+next action to place the _Disarmed_ aspect on that opponent. (adapted
+from http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Firm Grip.* +2 to defend with Fight against being disarmed. (Peter
+Blake)
+
+=== Full Defense
+
+* *Fists of Fury.* (requires Brawler.) Swinging wildly and with force,
+you can strike at an opponent over and over again, wearing down his
+defense with each blow. +2 to Fight whenever you punch an opponent who
+is using full defense. (adapted from Spirit of the Century SRD, v6.13.1)
+* *Flawless Parry/Perfect Parry.* +2 to defend with Fight when you
+perform a full defense action. (adapted from Spirit of the Century SRD,
+v6.29.1)
+* *Guard Breaker.* When you attack someone who is performing a full
+defense action, you gain +2 to Fight. (Peter Blake)
+
+=== In Specific Environments
+
+* *Blind-Fight.* Your ability to attack with Fight works unimpeded by
+conditions like darkness or other visual impairments. (Peter Blake)
+* *Master of the Roof.* +2 to defend with Fight when you are at a higher
+elevation than your opponent. (Peter Blake)
+
+http://resources.wikispaces.com/Stunts[resources.wikispaces.com/Stunts])
+
+* *Mountain Warrior.* +2 to defend with Fight when your opponent is at a
+higher elevation than you. (Peter Blake)
+* *Precise Swing.* You suffer no increased difficulty on Fight rolls
+from aspects related to cover. (Peter Blake)
+* *Tunnel Fighter.* Your Fight skill works unimpeded by conditions such
+as narrow passages, low ceilings, or other spatial limitations. (Peter
+Blake)
+
+=== Mounted Combat
+
+* *Ride-By Attack.* Once per scene, you may move one zone while mounted,
+attack with Fight, and then move one additional zone, provided there are
+no situation aspects restricting movement. (Peter Blake)
+* *Unhorse.* +2 to create advantage with Fight when you try to remove
+someone from their mount's back. (Peter Blake)
+
+=== Special Moves
+
+* *Bull Charge.* You know how to use your momentum in a fight. +2 to
+attack with Fight whenever you move at least one zone unopposed before
+you attack with a fist or other blunt weapon. (adapted from Spirit of
+the Century SRD, v6.13.2)
+* *Dispatch the Fallen.* Once per scene, when you attack an enemy who is
+__Prone__, __Knocked to the Ground__, or similar, you gain +2 to attack
+with Fight. (Peter Blake)
+* *Flying Kick.* (requires Martial Arts.) You are able to leap through
+the air, leading with a powerful kick that can lay an unsuspecting
+opponent out. +2 to attack with Fight whenever you move at least one
+zone unopposed before you attack with a kick. (adapted from Spirit of
+the Century SRD, v6.13.2)
+* *Killing Stroke.* Once per scene, when you force an opponent to take a
+consequence, you can spend a fate point to increase the consequence's
+severity (so mild becomes moderate, moderate becomes severe). If your
+opponent was already going to take a severe consequence, he must either
+take a severe consequence and a second consequence or be taken out.
+(Fate Core, p.111)
+* *Knockback.* When you succeed with style on an attack with Fight, you
+may choose to reduce the value of your hit by one in order to move your
+opponent one zone, provided there are no situation aspects impeding this
+movement. (Peter Blake)
+* *Signature Strike.* You have a specific attack which you have honed to
+devastating perfection. Describe it as an aspect (for instance _Thousand
+Whirlwinds Strike As One!_ or __Kick in the Crotch__). Once per
+conflict, as a free action, you can attach this aspect to an opponent as
+a boost. (adapted from Spirit of the Century SRD, v6.13.1)
+* *Spring Attack.* Once per scene, you may move one zone on foot, attack
+with Fight, and then move one additional zone, provided there are no
+situation aspects restricting movement. (Peter Blake)
+* *Stunning Fist.* Once per physical conflict, when you succeed on an
+unarmed attack, you may place the aspect _Stunned_ on your opponent with
+one free invocation. (Peter Blake)
+
+=== With Specific Weapons
+
+* *Do You Like It? I Made It Myself.* A weapon you made yourself is a
+weapon that you know really well. +2 to defend with Fight when opponents
+attempt to disarm you or turn the limitations of your weapon against
+you. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *My Blade Strikes True.* Once per conflict, you can force the opponent
+to use a mild consequence instead of a 2-point stress box on a
+successful Fight attack with your heirloom sword. (Fate Core, p.93)
+* *Two Sword Joe.* Normally, fighting with two swords just looks cool,
+but when you wield two swords, you have a decisive advantage. Any time
+you succeed on an attack with two swords, the stress inflicted is
+increased by one. (adapted from Spirit of the Century SRD, v6.15.4)
+
+=== With Any Weapon
+
+* *Anything Goes.* Virtually anything can be a lethal weapon in your
+hands, as long as you can comfortably and casually lift it. You never
+need to spend a fate point in order to declare that an improvised weapon
+is close at hand, unless your surroundings have been deliberately
+prepared against this (such as a prison cell). (adapted from Spirit of
+the Century SRD, v6.29.3)
+* *Weapons of the World.* Every kind of proper (not improvised)
+hand-held melee weapon in the world has been in your hands at one point
+or another. Once per conflict, when you handle an unusual weapon of this
+type, you may tell a quick two- or three-sentence story (either to
+another character or as an internal monologue) to gain a +2 on your next
+roll with it. (adapted from Spirit of the Century SRD, v6.29.3)
+
+=== New Actions
+
+* *Bloodlust.* Once per scene, when you inflict a physical consequence,
+you gain one additional invocation of that consequence. (Peter Blake)
+* *Demoralising Stance/My Weapon Speaks For Me/Talking With My Fists.*
+As a trained fighter, you are able to adopt a stance that makes it
+unequivocally clear how capable you are of handing someone his ass.
+Whenever displaying your fighting stance or threatening someone with
+violence, you may roll Fight instead of Provoke to scare them. (adapted
+from Spirit of the Century SRD, v6.13.2)
+* *Hidden Weapons.* Your knowledge of weapons helps you conceal them.
+You may use Fight instead of Burglary to conceal weaponry. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Mixed Martial Artist.* You practice judo or another grappling-based
+martial art. You may use Fight instead of Physique to create advantages
+related to wrestling and pinning. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Parry Everything.* Your hand-eye coordination is superb, and perhaps
+you could even deflect a bullet with your weapon. You may use Fight to
+defend against Shoot attacks. (The GM may limit this stunt by having it
+only apply to slower projectiles or those fired from another zone.)
+(adapted from http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Whip Grip.* You can use Fight to grab things with a whip. (Peter
+Blake)
+
+=== Other
+
+* *Armiger.* Whenever you take a mild physical consequence, you can
+choose to instead destroy your armor or your shield, provided you're
+using the appropriate item. Once your armor or shield is destroyed,
+you'll have to get it repaired or get a new one. (Fate System Toolkit,
+p.41)
+* *Backup Weapon.* Whenever someone's about to hit you with a _Disarmed_
+situation aspect or something similar, spend a fate point to declare you
+have a backup weapon. Instead of a situation aspect, your opponent gets
+a boost, representing the momentary distraction you suffer having to
+switch. (Fate Core, p.111)
+* *Dirty Fighter.* (requires Brawler.) You have a talent for fighting
+dirty and are experienced in pulling all manner of tricks in order to
+get the upper hand on your opponents. Any time you invoke an opponent's
+aspect in a physical fight, you get an additional +1 on the roll.
+(adapted from Spirit of the Century SRD, v6.13.1)
+* *Competition Fighting.* You excel on the mat or in the ring. +2 to
+attack with Fight as long as the combat is part of an adjudicated sport
+and is not a matter of life and death. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Cut Off.* When someone defends against your Fight roll, and they
+succeed with style, they do not receive a boost. (adapted from Spirit of
+the Century SRD, v6.3.1)
+* *The Drunkard Swings Wide.* (requires Drunken Shove from Physique.)
+Your blows are crude and telegraphed, but in dodging, your opponent
+seems to be struck by an elbow or a knee by accident. Make your Fight
+roll as normal. If you strike your opponent, you do stress as normal. If
+you miss or tie, your opponent takes one physical stress anyway. (Fate
+System Toolkit, p.150)
+* *Ground and Pound.* When you successfully attack someone with Fight
+whom you are grappling, you inflict 2 additional stress. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Heavy Hitter.* When you succeed with style on a Fight attack and
+choose to reduce the result by one to gain a boost, you gain a full
+situation aspect with a free invocation instead. (Fate Core, p.111)
+* *Hold the Line.* When you share a zone with an ally who also has this
+stunt, you gain +2 to defend with Fight. (Peter Blake)
+* *Kick the Bruise.* It really hurts to take two hits to the same place.
+Once per conflict, when you invoke a physical consequence on a
+successful Fight attack, you can spend a fate point to increase that
+consequence's severity (so mild becomes moderate, moderate becomes
+severe) before your opponent takes stress from your successful attack.
+If you invoked a severe consequence, your opponent must either take a
+consequence from your attack or be taken out. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Martial Arts.* You have an acute insight into the means and methods
+of barehanded warfare. +2 to create advantages with Fight when you
+assess another martial artist's style. (adapted from Spirit of the
+Century SRD, v6.13.2)
+* *Brickbreaker/Board Breaking.* (requires Martial Arts.) You are able
+to focus the force of your blows into a concentrated, small area that is
+devastating to solid materials. You may make attacks with your body
+against objects that would typically only be damaged by weapons or
+tools. If you attack something softer, such as wood, any stress you deal
+is doubled. (adapted from Spirit of the Century SRD, v6.13.2)
+* *Fist of Death.* (requires Martial Arts.) By concentrating your force
+into a powerful blow, you may devastate even the most potent of
+opponents. Once per opponent per fight, you may spend a fate point after
+landing a successful blow to cause your opponent to check their highest
+unchecked physical stress box (instead of taking stress equal to the
+shifts you succeeded by). (adapted from Spirit of the Century SRD,
+v6.13.2)
+* *Martial Scholar.* (requires Martial Arts.) Once you know your
+opponent, besting them is easy. When you successfully create an
+advantage with Fight based on assessing an opponent's combat style, you
+gain an extra free invocation. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Right Back At You.* (requires Parry Everything.) Once per scene, when
+you succeed with style on a Fight defence against a Shoot attack, you
+may send the projectile flying back towards your attacker, inflicting a
+2-shift physical hit on them. (Peter Blake)
+* *Spears of Green Wood.* You may train a body of troops-unnamed
+characters in a group of up to approximately 100-for a week and increase
+their Fight Skill by +1. You can repeat this multiple times, improving
+any given unit to a maximum of your Fight -2. (Fate System Toolkit,
+p.97)
+* *Steady the Drunkard.* (requires The Drunkard Swings Wide.) You
+stagger and seem about to fall, so you reach out and grab your
+opponent's arm to steady yourself. This seemingly unintentional grip
+blocks chi and paralyzes your opponent. You may place a _Chi Blocked_
+situation aspect with a free invocation on your opponent. Your opponent
+may not use any kung fu stunts until they remove this aspect. (Fate
+System Toolkit, p.150)
+* *Use Their Strength Against Them.* Excessive strength can be a
+disadvantage if your opponent knows how to exploit it. +2 to Fight rolls
+made to defend against an opponent, provided the opponent is physically
+much stronger than you. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Warmaster.* +2 to Fight rolls made to create an advantage against an
+opponent, provided the opponent has a fighting style or weakness you can
+exploit. (Fate Core, p.299)
+* *Weapon Finesse.* +2 to create advantages with Fight related to fancy
+but harmless bladework, such as cutting your insignia into your
+opponent's clothing. (Peter Blake)

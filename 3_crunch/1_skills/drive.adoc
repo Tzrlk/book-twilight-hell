@@ -1,0 +1,145 @@
+= Drive
+
+== Stunts
+
+=== On the Road
+
+* *City Driver.* You've spent most of your life driving up and down the
+same streets. Pick a city. Whenever you are in that city, you never
+suffer increased difficulty on Drive rolls due to traffic. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Defensive Driving.* You're good at keeping your car in one piece. +2
+to overcome with Drive during a chase. (adapted from Spirit of the
+Century SRD, v6.9.2)
+
+=== In the Sky
+
+* *Barnstormer.* You can squeeze your plane through places where it has
+no business fitting. You never need to spend a fate point to declare
+details relating to your plane having enough clearance space to fly or
+land. What's more, if you do spend a fate point, you can fit the plane
+in places you absolutely should not be able to. (adapted from Spirit of
+the Century SRD, v6.21.1)
+* *Death from Above.* (requires Flying Ace.) While in flight, if you are
+able to make an attack on another flying target from an elevated
+position, you do two additional points of stress on a successful hit.
+However, this action takes you out of your position of advantage.
+(adapted from Spirit of the Century SRD, v6.21.1)
+* *Fly By Night.* Whether in dead of night or during a storm, your
+piloting skills remain true. You never face increased difficulties due
+to environmental factors (darkness, weather) when flying. This does not
+protect your plane from taking damage from the environment - but your
+skill remains unreduced. (adapted from Spirit of the Century SRD,
+v6.21.1)
+* *Walk Away From It.* (requires at least two other Drive stunts.) You
+have a great instinct for crash-landing planes, and are able to walk
+away from even the most catastrophic-seeming landings. While you are
+piloting a plane into its crash landing, coincidence conspires to keep
+you and your passengers alive, and you pass from the view of the other
+combatants. You may re-enter play in any subsequent scene in as dramatic
+a fashion as you see fit, explaining to everyone how you survived. You
+return with all of your physical stress cleared and a single additional
+consequence incurred to reflect the dangers you defied. (adapted from
+Spirit of the Century SRD, v6.21.1)
+
+=== On Horseback
+
+* *Bareback Rider.* You suffer no increasing difficulty to Drive rolls
+while riding an animal due to a lack of saddle, reins, or other tack.
+(Peter Blake)
+* *Breaking It In.* You're skilled at breaking in new mounts. You
+receive +2 on all Drive rolls during such an effort. (We suggest you run
+breaking in a mount as a conflict between rider and steed. The rider
+should make mental attacks using Drive vs. Will on the animal while the
+animal is making Athletics or Physique vs. Drive physical attacks on the
+rider. When one party is finally taken out, takes a consequence, or
+concedes, either the animal is broken or the rider is thrown.) (adapted
+from Spirit of the Century SRD, v6.28.3)
+* *Hell Bent for Leather.* You know how to get the best speed out of
+your mount. +2 to Drive whenever you're on horseback and riding at top
+speed. You must be an active participant in driving your mount forward
+in order to receive this bonus. The benefit doesn't apply if you're,
+say, in the saddle, but unconscious. (adapted from Spirit of the Century
+SRD, v6.28.3)
+* *Mounted Trample.* Once per scene, when you succeed with style on a
+create advantage roll with Drive and place an aspect on an opponent, you
+may exchange one of your free invocations for a 2-shift hit on that
+opponent. (Peter Blake)
+* *Preferred Mount.* Choose a type of riding animal. +2 to overcome or
+create advantage with Drive when mounted on that kind of animal. (Peter
+Blake)
+* *Ride Anything.* If it can be ridden like a riding beast, you can ride
+it. You suffer no increased difficulty for a lack of familiarity, no
+matter how strange the mount. (adapted from Spirit of the Century SRD,
+v6.28.3)
+* *Run Them Down.* +2 to attack with Drive when you try to trample
+someone with your horse. (Peter Blake)
+* *We Ride as One.* You fight and act on horseback without penalty, and
+nothing can knock you off. Any time you would take a physical
+consequence, you can opt for the horse to take it instead - the horse
+having a similar consequence track to your character. (Fate System
+Toolkit, p.97)
+
+=== On the Water
+
+* *Sailor.* +2 to Drive whenever you use it to operate a water-borne
+vessel. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== New Actions
+
+* *Flying Ace.* You are a skilled combat pilot, and as such may roll
+Drive instead of Shoot to attack in a dogfight. (adapted from Spirit of
+the Century SRD, v6.21.1)
+* *Gunner.* You're a former military man with the training to use
+vehicle-mounted weaponry. You may use your Drive skill to make attacks
+with such weapons. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Mechanic.* You may roll Drive instead of Crafts when working on a
+wheeled vehicle. (adapted from Spirit of the Century SRD, v6.9.1)
+* *Mounted Combat.* You may roll Drive instead of Fight to make melee
+attacks whenever you are riding an animal. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Old Salt.* You may use Drive instead of Lore to make predictions
+about the weather. (Peter Blake)
+* *Plane Mechanic.* You may roll Drive instead of Crafts when working on
+a vehicle capable of flight. (adapted from Spirit of the Century SRD,
+v6.21.2)
+* *Traffic Watcher.* You really know how to use those rear-view mirrors.
+You may use Drive instead of Notice to be aware of vehicles and road
+conditions, to detect vehicular ambushes, and to determine turn order
+while operating a vehicle. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Other
+
+* *Flawless Navigation.* The skies (or roads) are an open map in your
+mind. +2 to Drive when navigating to a strange place or overcoming being
+__Lost__.
+* *Hard to Shake.* +2 to Drive whenever you're pursuing another vehicle
+in a chase scene. (Fate Core, p.107)
+* *One Hand on the Wheel.* Multitasking behind the wheel is second
+nature to you. +2 to overcome with Drive after you successfully create
+an advantage in a contest. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Pedal to the Metal.* You can coax more speed out of your vehicle than
+seems possible. Whenever you're engaged in any contest where speed is
+the primary factor (such as a chase or race of some kind) and you tie
+with your Drive roll, it's considered a success. (Fate Core, p.107)
+* *Ramming Speed!* When ramming another vehicle, you ignore two shifts
+of damage. So if you ram and hit for four shifts, you only take two
+yourself. (Fate Core, p.107)
+* *Signature Ride.* You've used a certain vehicle so much that its
+operation is instinctive to you. Pick a specific make and model of
+vehicle. Add two to your Drive skill when using that sort of vehicle.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Steady Driver.* Once per scene, you may reroll a failed Drive roll
+for free. (Peter Blake)
+* *Turn on a Dime.* (requires Defensive Driving.) Somehow, no matter how
+crazy you drive, you always seem to pull it off. +2 to Drive when making
+very tight turns and trying to fit through very narrow spaces. (adapted
+from Spirit of the Century SRD, v6.9.2)
+* *Unsafe at Any Speed.* You are the bane of curbside markets and
+rickety struts holding up awnings. When you hit an object other than a
+character or vehicle, increase the stress you cause by 2. Any time an
+object is taken out by the damage, the result should be spectacular - an
+explosion or collapse. (adapted from Spirit of the Century SRD, v6.9.2)

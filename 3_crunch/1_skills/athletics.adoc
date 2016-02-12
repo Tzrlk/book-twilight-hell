@@ -1,0 +1,194 @@
+= Athletics
+
+== Stunts
+
+=== Balancing and Climbing
+
+* *Acrobat.* You are able to perform impressive acrobatic feats. No
+individual source of opposition related to balance can be used to
+justify opposition to your actions. (adapted from Spirit of the Century
+SRD, v6.5.1)
+* *By My Hand, Set the World in Motion.* Through a combination of speed,
+dexterity, and uncanny timing, you always have a path forward. In a
+static environment, this means that you are capable of crazy
+parkour-like movement to get almost anywhere that could be physically
+accessed. In a more fluid environment you are impossible to pin down or
+fence in, as you'll always find the gap. (Fate System Toolkit, p.95)
+* *Hardcore Parkour.* +2 to overcome actions with Athletics if you are
+in a chase across rooftops or a similarly precarious environment. (Fate
+Core, p.98)
+* *Human Spider.* +2 to overcome or create advantage actions with
+Athletics on any climb. (adapted from Spirit of the Century SRD, v6.5.3)
+* *Mountaineer.* +2 to overcome with Athletics when faced with
+mountainous terrain. (Peter Blake)
+* *Pole Balance.* +2 to overcome or defend with Athletics when you need
+to balance and have a pole in hand. (Peter Blake)
+* *Rigging Rat.* +2 to overcome with Athletics when climbing on board a
+ship. (Peter Blake)
+* *Sea Legs.* Your Athletics skill works unimpeded by conditions like
+storms, water, or high seas while on board a ship. (Peter Blake)
+
+=== Dodging
+
+* *Acrobatic Dodge.* +2 to overcome with Athletics when another
+character presents an obstacle to you moving between zones. (Peter
+Blake)
+* *The Drunkard Stumbles.* (requires Falling Drunkard.) You stagger and
+stumble without control, but your enemy always seems to miss you and
+strike a nearby obstacle, causing damage to themselves. When you dodge a
+blow with Athletics, your opponent takes one stress, or two stress if
+you succeed with style. (Fate System Toolkit, p.150)
+* *Dazing Counter.* When you succeed with style on a defend action
+against an opponent's Fight roll, you automatically counter with some
+sort of nerve punch or stunning blow. You get to attach the _Dazed_
+situation aspect to your opponent with a free invoke, instead of just a
+boost. (Fate Core, p.98)
+* *The Drunkard's Stagger.* You sway and stagger on your feet, evading
+enemy blows seemingly by chance. When you succeed in a defensive
+Athletics roll using this technique, you gain +1 on your next attack
+against the opponent who tried to hit you. If you succeed with style,
+gain +2. (Fate System Toolkit, p.150)
+* *Evasion.* You have an amazing ability to remain unharmed when caught
+within the blast radius of an explosion. +2 to defend with Athletics
+against area attacks. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *The Falling Drunkard.* (requires Drunkard's Stagger.) When an enemy
+attacks, you lose your balance and fall to the ground, rolling back to
+your feet quickly, but your enemy now finds himself dangerously
+overextended. Roll Athletics to dodge. On a success, place a boost on
+your opponent such as _Overextended_ or _Off-Balance_ that anyone may
+use against him. On a success with style, place a second boost on your
+opponent. (Fate System Toolkit, p.150)
+* *Favored Enemy Dodge.* Choose an organisation. You gain +2 to defend
+with Athletics against members of that group. (Peter Blake)
+* *Lightning Reflexes.* +2 to defend with Athletics for the first
+exchange after you become aware of a threat. (Peter Blake)
+* *Protector.* You are an expert bodyguard. +2 to defend with Athletics
+whenever you pull someone out of harm's way at great personal risk to
+yourself. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Reading the Line of Fire.* You can tell where the bullets will go
+before the trigger is pulled. +2 to Athletics when using it to dodge
+gunfire. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Redirect Attack.* Once per scene, when you succeed with style on a
+defence roll with Athletics against Fight, you may force your opponent
+to attack another of your enemies in the same zone with the same attack
+roll. (Peter Blake)
+* *Slippery.* +2 when using Athletics to defend against or overcome
+knockbacks and pushes. (adapted from Spirit of the Century SRD, v6.5.1)
+* *War Mount.* You work together with your rider to defend yourselves.
++2 to defend with Athletics while being ridden. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Falling
+
+* *Safe Fall.* (requires Acrobat.) You can skip effortlessly down sheer
+surfaces. Whenever you fail an Athletics roll and fall vertically near a
+solid surface, reduce the stress you take by 2. (adapted from Spirit of
+the Century SRD, v6.5.1)
+* *Land On Your Feet.* Like a cat, you are able to fall from great
+heights without excessive harm. When making an Athletics roll to resist
+falling damage, add +2 to the roll. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Jumping
+
+* *Fight By Jumping.* (requires Mighty Leap.) It is normally a very bad
+idea to jump up high while fighting, but you make it work. +2 to
+Athletics when creating a jump-based advantage in combat, but all
+aspects created this way disappear at the end of your next turn.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Long Jump.* +2 to Athletics when jumping significant distances
+horizontally. (Peter Blake)
+* *Mighty Leap/Spring-Heeled.* Your leaping ability borders on the
+superhuman. +2 to overcome with Athletics whenever height is a major
+factor. (adapted from Spirit of the Century SRD, v6.5.3)
+* *Out of Reach.* (requires Fight By Jumping.) It isn't easy to hit a
+guy who's five feet above your head. When you create an aspect using
+Fight By Jumping, you may move into the zone above your current zone as
+a free action, provided there are no situation aspects restricting that
+movement. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Vault.* +2 to overcome with Athletics when you have a long pole in
+hand and the obstacle is primarily height-based. (Peter Blake)
+
+=== Sprinting
+
+* *The Bastard Will Not Escape.* Nobody gets away from you. +2 to
+overcome with Athletics when chasing someone on foot. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Fast as a Leopard.* (requires Sprinter.) You are incredibly fast on
+your feet. +2 to create advantage or overcome actions with Athletics
+used to move multiple zones on the flat. (adapted from Spirit of the
+Century SRD, v6.5.2)
+* *Faster than a Leopard.* (requires Fast as a Leopard.) You are simply,
+astonishingly fast. When you move multiple zones in a straight line, you
+get an additional +2 to create advantage or overcome actions with
+Athletics. (adapted from Spirit of the Century SRD, v6.5.2)
+* *Run Away!* Discretion is the better part of valour, at least for you.
+On a successful defence with Athletics, you may sacrifice your next
+action to immediately flee, making an overcome action with Athletics and
+using your total on the defence roll as your total on the overcome roll.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Sprinter/Highly Mobile.* You move two zones for free in a conflict
+without rolling, instead of one, provided there are no situation aspects
+restricting movement. (Fate Core, p.98)
+
+=== Squeezing
+
+* *Contortionist.* If you choose to spend an action moving from one zone
+to an adjacent one, your Athletics skill works unimpeded by conditions
+such as narrow openings, low ceilings, or other cramped conditions.
+(Peter Blake)
+* *Escapologist.* +2 to overcome actions with Athletics when escaping
+from bonds. (adapted from Spirit of the Century SRD, v6.5.1)
+
+=== Swimming
+
+* *One With the Water.* +2 to defend or overcome with Athletics while
+swimming. (Peter Blake)
+
+=== New Actions
+
+* *Ball Toss.* Throwing a basketball isn't very different from throwing
+a knife. You may use your Athletics skill in place of Shoot for thrown
+weapons. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Equestrian.* You can use Athletics instead of Drive whenever you are
+riding a horse. (adapted from Spirit of the Century SRD, v6.5.3)
+* *Graceful Silence.* Your natural poise and grace enable you to pass
+quietly and undetected. You may use your Athletics skill in place of
+Stealth whenever silence alone would help you move undetected. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Marathon Training.* You know how to conserve your energy when
+undergoing lengthy athletic activity. You may use Athletics instead of
+Physique during long-distance running, multi-day climbs, and the like.
+(adapted from Spirit of the Century SRD, v6.5.2)
+* *Second-Story Girl.* You can use Athletics in place of Burglary for
+all overcome actions, provided you don't have to bypass a lock or
+interact with other security measures. (Fate Core, p.299)
+* *Whirlwind Step.* When you assume the stance of the whirlwind, roll
+Athletics against Fair (+2) opposition. If you succeed, you may run on
+vertical surfaces and leap unlikely distances without making rolls to do
+so, until your next turn ends. If you succeed with style, you may
+instead gain these benefits for the rest of the scene. (Fate System
+Toolkit, p.35)
+
+=== Other
+
+* *Catch.* When defending against an attack with a thrown object, if you
+succeed with style, you may catch the item that was thrown at you and
+create a related aspect with a free invoke, instead of just a boost.
+Details such as your Physique skill and any relevant aspects may be used
+to determine whether a given object is something you could, practically
+speaking, catch. (adapted from Spirit of the Century SRD, v6.29.2)
+* *Childhood Playground.* You are remember the place you grew up in
+well, and you still find it easy to navigate its obstacles. Name and
+describe that place. You gain +2 to overcome with Athletics whenever you
+are in a similar environment. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Flanking Specialist.* Once per scene, when you create the aspect
+_Flanked_ or similar on an opponent, you gain one additional free
+invocation of the aspect. (Peter Blake)
+* *Sportsman.* Sports are your life. Pick a sport. You get a +2 to all
+Athletics rolls relating to that sport. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Surefooted.* You suffer no increased difficulty to Athletics due to
+snowdrifts, loose soil, or shifting sand. (Peter Blake)

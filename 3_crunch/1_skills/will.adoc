@@ -1,0 +1,125 @@
+= Will
+
+== Stunts
+
+=== Mental Resistance
+
+* *Fierce Mind.* +2 to overcome fear with Will. (Peter Blake)
+* *Fighting For What You Believe In.* Your faith, in someone or
+something, is absolute. Pick a being or a concept. +2 to Will when
+defending that thing or when overcoming separation from it. (adapted
+from http://dfrpg-resources.wikia.com/wiki/Stunts)
+* *Gift of Faith.* +2 to defend with Will against fear and despair.
+(Peter Blake)
+* *Indomitable/Fearless.* +2 to defend against Provoke attacks
+specifically related to intimidation and fear. (Fate Core, p.127)
+* *Inner Strength.* +2 to defend with Will against someone trying to get
+inside your head - be it through psychic means or through extensive
+torture. (adapted from Spirit of the Century SRD, v6.23.2)
+* *Mind of Steel.* Magical mental influence is useless against your
+fortress-like mind! +2 to Will when using it to defend against
+supernatural mental attacks. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Set In My Ways.* You're old. It took you decades to form your beliefs
+and you're not about to abandon them. Add +2 to your Will when using it
+to resist attempts to change your deeply-held beliefs or your core
+identity. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Stubborn Faith.* You cling to your beliefs with amazing
+determination. +2 to Will when overcoming or defending against attempts
+to make you act directly against the principles of your faith. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Trust In My Leader.* Pick a person or being who has authority over
+you and whom you trust. You gain +2 to Will whenever you resist attempts
+to undermine that trust. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Stress and Consequences
+
+* *Aplomb.* (requires Smooth Recovery.) When you go to check off a
+mental stress box and that box is already checked, you can check off the
+next lowest value empty box. If there are no unchecked boxes of a lower
+value, check off a higher value box as normal. (adapted from Spirit of
+the Century SRD, v6.23.1)
+* *Cool Customer.* (requires Smooth Recovery.) You are so at ease in
+times of mental stress that nothing seems to dent your calm regard of
+the situation. During a conflict, you may use your action to roll your
+Resolve against a target of Mediocre. If you succeed, you may either
+erase a check in your 1-point mental stress box or spend a fate point to
+erase a check from any single mental stress box with a value equal to or
+less than the shifts you gained on your roll. (adapted from Spirit of
+the Century SRD, v6.23.1)
+* *Driven.* (requires Still Standing.) Whenever you take a moderate or
+severe consequence from a mental attack, you gain a free invocation on
+that consequence. (adapted from Spirit of the Century SRD, v6.23.2)
+* *Hard Boiled.* You can choose to ignore a mild or moderate consequence
+for the duration of the scene. It can't be compelled against you or
+invoked by your enemies. At the end of the scene it comes back worse,
+though; if it was a mild consequence it becomes a moderate consequence,
+and if it was already moderate, it becomes severe. (Fate Core, p.127)
+* *Never Broken.* You gain a -8 physical consequence which recovers in
+the same way a -2 consequence does. (Fate System Toolkit, p.95)
+* *Smooth Recovery/Still Standing/Stubborn.* (requires Inner Strength.)
+You simply do not know when to quit. You gain an additional mild
+consequence slot. This slot can only be used for mental harm. (adapted
+from Spirit of the Century SRD, v6.23.2)
+* *Unyielding.* (requires Driven.) Your force of will is enough to keep
+you going in the direst of circumstances. Each time you take physical
+stress, you may spend a fate point to instead take two 1-shift hits of
+mental stress. (adapted from Spirit of the Century SRD, v6.23.2)
+
+=== New Actions
+
+* *Determinate.* Your astonishing determination allows you to push
+yourself beyond your physical limits. Use Will instead of Physique on
+any overcome rolls representing feats of endurance. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *I'll Just Ignore You.* Counterarguments are a waste of time. You
+prefer to simply not listen to the people you disagree with. You may use
+Will instead of Rapport to defend against attempts to damage your
+reputation or make you look bad in front of others. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Right Place, Right Time.* (requires Indomitable.) You seem to always
+be in a safe spot, without moving in any obvious way. You may use Will
+to defend against physical attacks, and may also use it to move or take
+cover (so long as you merely saunter; no sprints allowed). To the
+outside world, it appears that you are simply staying put and unfazed as
+gunfire and other attacks miss you by scant inches, or are picking up
+your undisturbed martini as the werewolf rushes past. Circumstance
+conspires to leave you undisturbed so long as your defense is not
+beaten. (adapted from Spirit of the Century SRD, v6.23.1)
+* *Strength From Determination.* Use Will instead of Physique on any
+overcome rolls representing feats of strength. (Fate Core, p.127)
+* *Sunday School.* Your steadfastness comes from your religious
+upbringing. You may roll Will instead of Lore whenever seeking or
+recalling religious knowledge. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Unbroken Composure.* Your mental strength allows you to remain calm
+when others would be caught off guard. You may use Will in place of
+Notice whenever someone is attempting to surprise you. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Other
+
+* *Extraordinary Concentration.* Once per scene, when you successfully
+create an advantage with Will based on concentration, you gain one
+additional free invocation. (Peter Blake)
+* *Iron Determination.* You may, when you bluntly speak your true
+intentions in a social interaction, immediately gain a +1 bonus on all
+subsequent Provoke or Will rolls in that scene. However, if you do this,
+you may no longer use Rapport with the same audience, as you have peeled
+away the façade of civility. (adapted from Spirit of the Century SRD,
+v6.23.2)
+* *Laser-Like Focus.* You find it easy to clear your mind in a stressful
+situation. +2 to create an advantage with Will related to concentration,
+willpower, or clear thought. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *The Mind Is the Greatest Mountain.* So far as social skills are
+concerned, you do not exist. You cannot be swayed, befriended,
+intimidated, or otherwise moved. Your speech reveals nothing about you
+or the veracity of your words. (If another character has the stunt The
+Inner Eye Sees Inner Truth, for the purposes of that stunt, your Deceive
+score is higher than their Empathy.) (Fate System Toolkit, p.95)
+* *Parrot.* You can perfectly repeat anything you've heard in the last
+hour or so, even if you don't know the language it was spoken in.
+(Normally a Will roll would be required to recall the words correctly.)
+(Peter Blake)

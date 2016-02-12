@@ -1,0 +1,117 @@
+= Crafts
+
+== Stunts
+
+=== Tools
+
+* *Always Making Useful Things.* You don't ever have to spend a fate
+point to declare that you have the proper tools for a particular job
+using Crafts, even in extreme situations (like being imprisoned and
+separated from all your stuff). This source of opposition is just off
+the table. (Fate Core, p.103)
+* *Big Pocking Wrench.* You can do a lot as long as you have your trusty
+giant wrench on hand. +2 to Crafts when using it to fix or break
+something with a large wrench, provided the wrench is actually useful
+for what you are using it for. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Demolitions.* You are an expert with explosives. +2 to attack rolls
+made with Crafts against a target structure whenever you have time to
+prepare and place charges at its exact weak points. (adapted from Spirit
+of the Century SRD, v6.12.2)
+* *The Tools Are Lesser than the Hand.* You can produce
+master-craftsman-level work with the crudest of tools. With a proper
+workshop, you can create impossibly amazing devices in the finest da
+Vinci style. (Fate System Toolkit, p.99)
+* *Workshop of Choice.* Pick a specific workshop or machine shop. You
+know exactly how this place is arranged and how it operates, and gain +2
+on Crafts whenever you perform work within it. (adapted from
+http://dfrpg-resources.wikia.com/wiki/Stunts)
+
+=== Targets
+
+* *Architect of Death.* +2 to Crafts rolls when designing, repairing or
+upgrading weaponry. (adapted from Spirit of the Century SRD, v6.12.2)
+* *Favored Material.* Choose a type of solid material (e.g. wood, steel,
+bone). +2 to Crafts when you work predominantly with that substance.
+(Peter Blake)
+* *From Another Time.* You are intimately familiar with the technology
+of a time other than the present. Choose a time period other than the
+present day. Add two to your Crafts skill when working with objects or
+materials from that time period. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Grease Monkey.* If it has an engine and wings, propellers, or wheels,
+you "get" it, intuitively and completely. +2 to Crafts when dealing with
+vehicles. (adapted from Spirit of the Century SRD, v6.12.2)
+* *Master Bowyer.* +2 to Crafts when crafting or repairing bows. (Peter
+Blake)
+* *Shipwright.* +2 to Crafts when building or repairing boats or ships.
+(Peter Blake)
+* *Stonemason.* +2 to create advantage with Crafts when assessing or
+working with stone. (Peter Blake)
+* *Surgical Strikes.* When using Crafts in a conflict involving
+machinery, you can filter out unwanted targets from whole-zone attacks
+without having to divide up your shifts (normally, you'd need to divide
+your roll between your targets). (Fate Core, p.103)
+* *Taxidermist.* +2 to Crafts when preserving, stuffing, or posing dead
+animals. (Peter Blake)
+
+=== Techniques
+
+* *Better than New!* Whenever you succeed with style on an overcome
+action to repair a piece of machinery, you can immediately give it a new
+situation aspect (with a free invoke) reflecting the improvements you've
+made, instead of just a boost. (Fate Core, p.103)
+* *Bricoleur.* You are skilled at improvising when making or repairing
+something. +2 to Crafts when you creatively incorporate reused materials
+into your machine. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Eye For Flaws.* +2 to create advantage with Crafts when you examine
+an object or machine for physical weaknesses. (Peter Blake)
+* *Hogtie.* When you use Crafts to create a _Hogtied_ (or similar)
+advantage on someone, you can always actively oppose any overcome rolls
+to escape the hogtie (also using Crafts), even if you're not there.
+(Normally, if you weren't there, the escaping character would roll
+against passive opposition, making it a lot easier to escape.) (Fate
+Core, p.91)
+* *Master Bricoleur.* (requires Skilled Bricoleur.) When you succeed on
+a roll to which the Bricoleur stunt applies, your success takes two time
+steps less than normal. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Mister Fix-It.* You are talented at getting things repaired under
+time-critical circumstances. The time it takes for you to get something
+fixed is reduced by two shifts. (adapted from Spirit of the Century SRD,
+v6.12.2)
+* *Scavenger.* There is an art to making things quickly out of
+cannibalized parts. You find it easy, because the people who made the
+thing you took apart did most of the work. +2 to create advantages with
+Crafts whenever you disassemble machinery for later re-use. (adapted
+from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Skilled Bricoleur.* (requires Bricoleur.) Necessity is the mother of
+invention. +2 to Crafts when you have nothing to build with except
+inappropriate materials. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Thump of Restoration/Percussive Maintenance.* (requires Mister
+Fix-It.) Sometimes a bunch of repairs can get short-handed with a good
+swift thump. To activate this ability, spend a fate point and roll
+Crafts (vs. a target of Mediocre). If your roll succeeds, the device or
+contraption starts working and continues working for a number of
+exchanges equal to the shifts gained on the Crafts roll. Once the time
+is up, the device stops working again, and any efforts to repair it are
+at a one step higher difficulty (since, after all, you hit the thing).
+If you wish to thump again, you may do so for another fate point, but
+the difficulty for the Crafts roll increases by one on each subsequent
+attempt. (adapted from Spirit of the Century SRD, v6.12.2)
+
+=== New Actions
+
+* *Locksmith.* If you can take apart a clock, you can take apart a lock.
+You may roll Crafts instead of Burglary when lockpicking. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Personalized Weaponry Engineering.* Clever engineering can compensate
+for a lack of combat skill. Pick a broad category of weapon (e.g.
+swords, polearms, crossbows). When you wield a weapon of this sort that
+you have created yourself, you may attack with Crafts instead of Fight
+(for melee weapons) or Shoot (for ranged weapons). Such weapons will
+often include odd devices and unusual features that make their use very
+different from that of a normal weapon. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)

@@ -1,0 +1,158 @@
+= Contacts
+
+== Stunts
+
+=== Active Networks
+
+* *Center of the Web.* Whether or not you lead it, you are like the
+spider at the center of a web regarding any organization of which you
+are a part. Information about the organization flows your way naturally,
+taking one time increment less to reach your attentive ears than it
+would normally, and so long as you are able to make any sort of contact
+with the outside world, you are quickly able to find out information
+about your organization's dealings. You also gain +1 to Contacts rolls
+related to your organization. (adapted from Spirit of the Century SRD,
+v6.18.3)
+* *Discreet Enquiries.* You are unusually subtle when it comes to
+gathering information. Whenever you seek information and an opponent
+rolls Contacts to be alerted to this activity, you may roll active
+opposition against them. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *The Strength of One Becomes the Strength of Many.* Once you begin a
+contacting effort, it becomes self-sustaining, as people you talk to
+talk to other people, who talk to others in turn. In effect, you will
+always get an answer; it is only a matter of time. (Fate System Toolkit,
+p.99)
+* *Ubiquity.* (requires Center of the Web.) First, this stunt steps up
+the intensity of your Center of the Web stunt - information flows your
+way a total of two time increments faster. Second, this stunt removes
+the restriction "so long as you are able to make any sort of contact
+with the outside world." Your ties into the organization are so
+thoroughly widespread that the outside world makes every reasonable
+effort to stay in contact with you. For a fate point, your organization
+can even make some fairly unreasonable efforts to stay in contact.
+(Spirit of the Century SRD, v6.18.3)
+
+=== Cold Opens
+
+* *The Bonds of Man Stretch to the Horizon.* There is no place where you
+do not know someone, including places you have never been before. You
+will find a friend wherever you go. (Fate System Toolkit, p.99)
+* *Bounty Board.* Whenever you enter a settlement, you can look for
+work. After an hour or so, you find a job that either pays well but is
+dangerous or is not too dangerous but doesn't pay that well. If you
+spend a fate point, it both pays well and is not too dangerous. (Fate
+System Toolkit, p.41)
+* *Criminal Underbelly.* Whenever you enter a settlement for the first
+time, you can spend a fate point to declare that the local criminals
+know you. Choose one of the following: they have a lead on a promising
+job, they'll give you and your companions free room and board for a few
+weeks, or they'll help you with something right now but you might owe
+them afterward. (Fate System Toolkit, p.42)
+* *A Friend in Every Port.* Whenever you enter a settlement, you may
+declare you've visited it before and roll Contacts against Fair (+2)
+opposition. If you succeed, you have a friend there who owes you one
+favor-nothing costly or life threatening. If you succeed with style,
+your friend will do any one thing for you that is within his power.
+(Fate System Toolkit, p.35)
+* *Friends Everywhere.* Your network of contacts extends around the
+world. You never suffer any increased difficulty on Contacts rolls from
+being in an unfamiliar area. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Specific Groups or Subjects
+
+* *Absolute Authority.* You are good at being in charge. +2 to Contacts
+as long as you are in a position of direct authority over those you
+intend to contact.
+* *Chain of Command.* You are a soldier, and other soldiers answer to
+you. Add two to your Contacts skill when using it to deal with soldiers
+from your organisation. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Common Interests/On the Watch.* You know people who know things about
+the things that you want to know about. Pick a broad subject (e.g. the
+royal court, baseball, university politics). Add +2 to Contacts when
+using it to enquire about that subject. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Eye for Talent.* +2 to Contacts when seeking promising young people.
+(Peter Blake)
+* *I'm Looking for Mr. Brown.* You are extremely good at tracking people
+down. +2 to Contacts whenever you are seeking a specific person whose
+name you know. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Member.* Pick a specific organisation. You belong to that
+organisation. Whenever you want to get in touch with its other members,
+gain +2 to Contacts. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Noble Born.* +2 to Contacts when seeking another member of the
+aristocracy. (Peter Blake)
+* *Renowned Courtesan.* +2 to Contacts when seeking lonely people who
+would be sexually attracted to you. (Peter Blake)
+* *Salesman's Network.* All good salesmen build up a network of
+satisfied customers over time. Pick a type of product. Add two to your
+Contacts skill when looking for or dealing with makers, sellers, or
+notable consumers of that type of product.
+(http://dfrpg-resources.wikispaces.com/Stunts)
+* *Too Cool for School.* All the kids wanna be just like you. +2 to
+Contacts when dealing with young adults of middle school or high school
+age. (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Walk the Walk.* Your travels have taken you to every corner of the
+globe. +2 to Contacts rolls when dealing with foreign lands or cultures.
+(adapted from Spirit of the Century SRD, v6.7.1)
+
+=== New Actions
+
+* *Big Man.* Pick a specific field of endeavour, such as crime,
+business, politics, espionage, or the occult. Within this field, you are
+considered a person of great importance. You may roll Contacts instead
+of Resources for anything which might fall under the auspices of members
+of that field. (adapted from Spirit of the Century SRD, v6.7.2)
+* *Big Name.* (requires Big Man.) You're so well known that an awareness
+of your name has crossed over into other areas as well. The first time
+you deal with someone who's heard of you (spending a fate point can
+assure that they have), and you're using your name, you get a +2 bonus
+to a Provoke or Rapport roll. (adapted from Spirit of the Century SRD,
+v6.7.2)
+* *Big Reputation.* (requires Big Name.) Your reputation has reached
+great proportions, and people are willing to believe all sorts of things
+about you. For a fate point, you may use your Contacts skill instead of
+Deceive, Rapport, Provoke, or Will, provided those you are dealing with
+are aware of your reputation (a second fate point will nearly always
+assure that they are). This stunt combines with the bonus from Big Name,
+getting the character a +2 to Contacts when using it instead of Provoke
+or Rapport. (adapted from Spirit of the Century SRD, v6.7.2)
+* *Ear to the Ground.* Whenever someone initiates a conflict against you
+in an area where you've built a network of contacts, you use Contacts
+instead of Notice to determine turn order, because you got tipped off in
+time. (Fate Core, p.101)
+* *Insider.* You are able to navigate bureaucracies easily, not because
+you understand them, but because you know people embedded in the
+bureaucracy who can provide shortcuts. You may roll Contacts instead of
+Resources when dealing with any sort of bureaucratic entanglement.
+(adapted from Spirit of the Century SRD, v6.7.1)
+* *My Buddy Has One of Those.* Your friends are very willing to let you
+borrow whatever you need. You may use your Contacts skill instead of
+your Resources skill to "buy" things. Everything obtained this way has
+the aspect _Not Actually Mine_ with one free invocation against you. The
+difficulty of an attempt to obtain something with Contacts may or may
+not be the same as the difficulty of an attempt to buy that same thing
+with Resources, at the GM's discretion. The time required may also vary.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *Talk the Talk.* (requires Big Man.) Whenever dealing with members of
+your chosen field, you may roll Contacts instead of Rapport. (adapted
+from Spirit of the Century SRD, v6.7.2)
+* *The Weight of Reputation.* You can use Contacts instead of Provoke to
+create advantages based on the fear generated by the sinister reputation
+you've cultivated for yourself and all the shady associates you have.
+You should have an appropriate aspect to pair with this stunt. (Fate
+Core, p.101)
+
+=== Other
+
+* *I Know a Guy Who Knows a Guy.* Sometimes it's not who you know, but
+who the people you know, know. Many of your contacts are, themselves,
+very well connected. +2 to Contacts when you attempt to corroborate
+information you've gotten from another of your contacts. (adapted from
+Spirit of the Century SRD, v6.7.1)
+* *Rumormonger.* +2 to create an advantage when you plant vicious rumors
+about someone else. (Fate Core, p.101)

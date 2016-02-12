@@ -1,0 +1,119 @@
+= Empathy
+
+== Stunts
+
+=== Insight
+
+* *Architecture of the Heart.* Reading a room is a triviality to you.
+Even more, you can spot the emotional lynchpins in a room and easily
+understand how actions would impact the mood. If you roll Empathy to
+read a room-difficulty Mediocre (+0)-count how many shifts you accrue.
+Over the course of the scene, you may ask the GM to tell you how people
+would react to any hypothetical scenario. You can do this a number of
+times equal to the number of shifts generated. (Fate System Toolkit,
+p.99)
+* *The Artist's Eye.* When you encounter a work of art, you may use
+Empathy to read the artist's emotional state, as if you had had
+interpersonal contact with them. You may also create advantages with
+Empathy related to the authenticity of the work. (adapted from Spirit of
+the Century SRD, v6.4.1)
+* *Cold Read.* Once per scene, you may use Empathy to read a person's
+emotional state without the need for interpersonal contact. (adapted
+from Spirit of the Century SRD, v6.10.2)
+* *Heart's Secret.* When you successfully use Empathy to read a person's
+emotional state, if that person's aspects are secret, the aspects the GM
+reveals must be those that are of the utmost importance to the person,
+unless you explicitly instruct her otherwise. If the person's aspects
+are not secret, you may choose which one to attach each of your free
+invocations to. (adapted from Spirit of the Century, v6.10.2)
+* *A Peek Inside.* (requires at least two other Empathy stunts.) You
+achieve such a strong understanding of your subject that you can start
+to make some fairly accurate guesses about his behavior. After you have
+successfully read a person's emotional state, you may immediately ask
+the GM a hypothetical question about that person's motives, which the GM
+must be able to answer with "yes", "no", or "maybe", to the best of her
+ability. The question must speak to the kind of person the target is,
+not things they've done, though it may ask if they are capable of doing
+such things. If the GM answers with a "maybe", you may ask a second
+question to get clarification. This second question may seek details,
+rather than another one-word answer. (adapted from Spirit of the
+Century, v6.10.2)
+* *Read You Like a Book.* People's emotions are pretty damn obvious to
+you. +2 to create advantages with Empathy when using it to read a
+person's emotional state. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *The Truth of Who You Are.* Every two minutes of conversation you have
+with someone reveals one of their aspects. However, for every two
+aspects you learn, you reveal one of your own to that person and anyone
+listening. Round down, so the first one you learn is free. (Fate System
+Toolkit, p.98)
+* *You've Got Issues.* +2 to create advantage with Empathy on a
+character's trouble aspect. (Peter Blake)
+
+=== Lie Detection
+
+* *I've Heard Every Lie in the Book.* +2 to overcome or defend against
+lies with Empathy. (Peter Blake)
+* *The Inner Eye Sees Inner Truth.* Without rolling, you can tell if
+another character is lying so long as the target's Deceive is equal to
+or lower than your Empathy. In the case of high Deceive, you will know
+that you cannot tell, but will never receive a "false positive." (Fate
+System Toolkit, p.99)
+* *Lie Whisperer.* +2 to all Empathy rolls made to discern or discover
+lies, whether they're directed at you or someone else. (Fate Core,
+p.109)
+* *Truth Beyond the Lie.* Once per scene, when you successfully see
+through a lie, you may gain a free invocation on whichever of the liar's
+aspects is most closely associated with their reason for lying to you.
+(Peter Blake)
+
+=== New Actions
+
+* *Animal Empathy.* You can use Empathy in place of Lore to sense the
+emotions of animals. (Peter Blake)
+* *Hit Them Where It Hurts/Disturbingly Insightful.* Your skill at
+reading people makes you adept at provoking a strong emotional response
+if you're trying to get them angry, depressed, or something similar. You
+may use Empathy in place of Provoke to make mental attacks. (adapted
+from Spirit of the Century, v6.10.2)
+* *Nose for Trouble.* You can use Empathy instead of Notice to determine
+your turn order in a physical conflict, provided you've gotten a chance
+to observe or speak to those involved for at least a few minutes
+beforehand during this scene. (Fate Core, p.109)
+* *One Breath.* A true samurai can size up a foe within a single breath.
+You may use Empathy to read when a person will attack you and evaluate
+their combat skills. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Track the Soul.* Your understanding of people you've met is
+sufficiently strong that it gives you an easy sense of how to find them.
+You may roll Empathy instead of Investigate whenever you're tracking
+down or otherwise trying to find someone you've met before. (adapted
+from Spirit of the Century SRD, v6.10.1)
+
+=== Other
+
+* *Bartender's Ear.* Like any good bartender, you know how to understand
+drunk people. Add two to your Empathy skill when dealing with people who
+are under the influence of alcohol.
+(http://dfrpg-resources.wikispaces.com/Stunts)
+* *Ebb and Flow.* You are so aware of the social currents in a situation
+that you are able to see something of what's coming before it arrives.
+At the beginning of any exchange, you may spend a fate point to attempt
+to create an advantage with Empathy. You may then act normally on your
+turn as usual. (adapted from Spirit of the Century SRD, v6.10.1)
+* *Listening Ear.* +2 to overcome or create advantage with Empathy when
+you listen to another person for half an hour or more. (Peter Blake)
+* *Preemptive Grace.* (requires Ebb and Flow.) You are so tuned into
+social situations that you may act quickly and decisively to shape the
+situation to your liking. +2 to Empathy for the purposes of determining
+turn order in a conflict. (adapted from Spirit of the Century SRD,
+v6.10.1)
+* *Psychologist.* Once per session you can reduce someone else's
+consequence by one level of severity (severe to moderate, moderate to
+mild, mild to nothing at all) by succeeding on an Empathy roll with a
+difficulty of Fair (+2) for a mild consequence, Good (+3) for moderate,
+or Great (+4) for severe. You need to talk with the person you're
+treating for at least half an hour in order for them to receive the
+benefits of this stunt, and you can't use it on yourself. (Normally,
+this roll would only start the recovery process, instead of changing the
+consequence level.) (Fate Core, p.109)

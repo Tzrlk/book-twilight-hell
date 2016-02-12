@@ -1,0 +1,97 @@
+= Stealth
+
+== Stunts
+
+=== In Specific Environments
+
+* *Face in the Crowd.* +2 to any Stealth roll to blend into a crowd.
+What a "crowd" means will depend on the environment-a subway station
+requires more people to be crowded than a small bar. (Fate Core, p.126)
+* *Gently Does It.* Your Stealth skill works impeded by inanimate
+objects that will make sound if disturbed, such as brittle twigs, mouse
+traps, or wobbly piles of crates. (Peter Blake)
+* *Slip Between the Shadows.* +2 to create advantage or overcome with
+Stealth whenever you are in near-darkness or total darkness. (Peter
+Blake)
+* *Stowaway.* +2 to Stealth when hiding on a ship or other large
+vehicle. (Peter Blake)
+
+=== Sudden Disappearances
+
+* *Cunning Evasion.* Once per scene, when you successfully defend
+against an area attack with Athletics, you may roll to create an
+advantage with Stealth as a free action. (Peter Blake)
+* *Hidden Sniper.* Once per scene, after you make a Shoot attack, you
+may roll to create advantage with Stealth as a free action. (Peter
+Blake)
+* *Only the Wind Will See Me Go.* At the cost of a fate point, you may
+exit a scene, passing from sight. (Fate System Toolkit, p.96)
+* *Quick Exit.* A momentary distraction is all you need to vanish from
+the scene. Provided you are not in the midst of a conflict, you may roll
+a quick contest between your Stealth and the highest Notice in the room.
+If you succeed, the next time someone turns to look at or talk to you,
+you're not there. (adapted from Spirit of the Century SRD, v6.27.2)
+
+=== New Actions
+
+* *Backstab/Sucker Punch.* You can use Stealth to make physical attacks,
+provided your target isn't already aware of your presence. (Fate Core,
+p.89)
+* *Backstab.* When you can surprise an enemy or attack from a place of
+hiding, you can attack with Stealth. If you succeed, you create a boost.
+If you succeed with style, you get to invoke that boost for free twice.
+(Fate System Toolkit, p.42)
+* *In Plain Sight.* You can use Stealth to hide even when you're out in
+the open and wouldn't normally be able to justify it. However, as soon
+as you move, you become visible again, unless another stunt you have
+states otherwise. (adapted from Spirit of the Century SRD, v6.27.1)
+* *Ninja Vanish.* Once per scene, you can vanish while in plain sight by
+spending a fate point, using a smoke pellet or other mysterious
+technique. This places the _Vanished_ boost on you. While you're
+vanished, no one can attack or create an advantage on you until after
+they've succeeded at an overcome roll with Notice to suss out where you
+went (basically meaning they have to give up an exchange to try). This
+aspect goes away as soon as you invoke it, or someone makes that
+overcome roll. (Fate Core, p.126)
+* *Shadowed Strike.* (requires Master of Shadows and Ninja Vanish.)
+After you invoke _Vanished_ on an attack, you may defend with Stealth
+for the remainder of the current exchange. (adapted from Spirit of the
+Century SRD, v6.27.1)
+* *Slippery Target.* Provided you're in darkness or shadow, you can use
+Stealth to defend against Shoot attacks from enemies that are at least
+one zone away. (Fate Core, p.126)
+* *Stalker.* You like to watch people who don't know they're being
+watched. You may use Stealth in place of Investigate to conduct
+surveillance. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+
+=== Other
+
+* *Hush.* Your talent with stealth may be extended to others who are
+with you close by, provided that you travel as a group. As long as the
+whole group stays with you and follows your hushed orders, you may make
+a single Stealth roll for the whole group, using your skill alone. (You
+cannot apply the benefits of other stunts to this roll.) If someone
+breaks from the group, they immediately lose the benefits, and may risk
+revealing the rest of you if they don't manage to pull off a little
+Stealth of their own. The maximum number of people that can be with you
+in the group is equal to your Stealth skill rating. (adapted from Spirit
+of the Century SRD, v6.27.3)
+* *Lightfoot.* It's difficult to track you when you take care to walk
+lightly. +2 to Stealth when overcoming traps based on weight or
+pressure. (adapted from Spirit of the Century SRD, v6.27.3)
+* *Master of Shadows.* (requires In Plain Sight.) After you use In Plain
+Sight, you may move one zone per exchange without becoming visible. If
+there is an aspect in play that would normally justify the use of
+Stealth to hide, you may pay a fate point to be able to make an overcome
+action with Athletics without becoming visible. (adapted from Spirit of
+the Century SRD, v6.27.1)
+* *Not a Threat.* Choose Deceive or Stealth when you take this stunt.
+When you create an advantage with that skill to make yourself as
+non-threatening or unobtrusive as possible, enemies will find other
+targets for as long as that aspect exists. As soon as you successfully
+attack someone, the aspect goes away. (Fate System Toolkit, p.42)
+* *Silent Tank.* For some strange reason, you are capable of sneaking
+around while wearing 30 pounds of steel plating. You never suffer
+increased difficulty on Stealth rolls from being armoured. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)

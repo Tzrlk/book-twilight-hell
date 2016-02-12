@@ -1,13 +1,13 @@
 = The Skills
 
 * Athletics
-* Burglary
 * Contacts
 * Crafts
 * Deceive
 * Drive
 * Fight
 * Investigate
+* Larceny
 * Lore
 * Notice
 * Endurance

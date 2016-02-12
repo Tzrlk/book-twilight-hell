@@ -1,0 +1,178 @@
+= Provoke
+
+== Stunts
+
+=== Intimidation
+
+* *Aura of Fear.* (requires Aura of Menace.) Your intimidating
+appearance and attitude are potent, making you able to intimidate entire
+crowds. Once per scene, you may spend a fate point and make an
+intimidation attempt against all opponents in the scene. If you succeed,
+attach an aspect representing the intimidation to each opponent. (This
+doesn't get you any additional free invocations of these aspects.)
+(adapted from Spirit of the Century SRD, v6.16.2)
+* *Aura of Menace.* (requires Scary.) You are the terror of all those
+who oppose you. Once per scene per target, you may spend a fate point to
+intimidate a target as a free action, no matter what the circumstances,
+immediately (if between actions), or immediately after the current
+action underway. (adapted from Spirit of the Century SRD, v6.16.2)
+* *Crown of Menace.* You are too terrifying to be attacked. Until you
+make a physical attack in a scene, characters with a Will lower than
+Good (+3) simply cannot attack you. Those with sufficient Will to attack
+still flinch on their first attack, though, automatically missing. (Fate
+System Toolkit, p.98)
+* *Daunting Presence.* +2 to create advantages similar to _Daunted_ with
+Provoke. (Peter Blake)
+* *Fearsome Gaze.* (requires Steely Gaze.) Your gaze is so terrifying
+that those faced with it can end up paralyzed with fear. This stunt is
+used in the same fashion as Steely Gaze, but if your opponent loses to
+the point of taking a consequence, he takes other consequences
+immediately afterwards. Even if this means he's taken out, the target
+retains the option to concede after recording the consequence. (adapted
+from Spirit of the Century SRD, v6.16.2)
+* *Master of Fear.* (requires Fearsome Gaze and Aura of Fear.) You are a
+master of the terrifying, and can have an entire room cowering within
+moments. Nameless NPCs who are affected by your Aura of Fear are
+automatically taken out; they simply flee or faint. (adapted from Spirit
+of the Century SRD, v6.16.2)
+* *Menacing Demeanor.* When you are face-to-face with another person,
+gain +2 to create advantages specifically related to fear on them with
+Provoke. (Peter Blake)
+* *Subtle Menace.* You exude menace far in excess of your capability to
+act. Even bound and behind prison bars, you are so ripe with the promise
+of the awful things you could do that you're still scary. +2 to Provoke
+rolls when opposed by someone in a clearly superior position of power.
+(adapted from Spirit of the Century SRD, v6.16.1)
+
+=== Rage
+
+* *Berserk Rage.* When you suffer a physical consequence, you can invoke
+that consequence for free on your next attack. If you suffer multiple
+physical consequences, you get a free invocation for each. (Fate System
+Toolkit, p.34)
+
+=== Satire and Mockery
+
+* *Infuriate.* Sometimes fear isn't an option, but that doesn't mean you
+can't still get up someone's nose. +2 to Provoke rolls whenever
+deliberately trying to get someone angry with you. (adapted from Spirit
+of the Century SRD, v6.16.1)
+* *Master of Mockery.* When you place an aspect such as _Enraged with
+<Your Name Here>_ on an opponent, that opponent can do nothing but
+attack you until the aspect is overcome. (Peter Blake)
+* *Poison Words.* (requires Razor Tongue.) Your skill at satire is so
+profound that you can take a whole audience with you. During a satirical
+performance, advantages you create with Provoke attach to each character
+present. You choose to which person your free invocations apply.
+(adapted from Spirit of the Century SRD, v6.4.3)
+* *Razor Tongue.* You know how to craft the most exquisite insults. +2
+to create advantage with Provoke whenever you eloquently insult a rival.
+(adapted from Spirit of the Century SRD, v6.4.3)
+* *Teflon Troublemaker.* When your _Can't Keep His Big Mouth Shut_
+aspect is compelled to make you the target of an attack, you may
+immediately clear any mild consequences you currently have, instead of
+taking a fate point. (Fate System Toolkit, p.34)
+
+=== Seduction
+
+(even though, strictly speaking, the response to seduction isn't a
+"negative emotional response".)
+
+* *Ladies' Man/Popular Gal.* You're adept at catching the eye of the
+opposite sex, and keeping it once you've got it. Any seduction attempts
+you make with Provoke receive a +2 bonus whenever the target is someone
+who could be receptive to it (this is not always a simple case of gender
+and preference). (adapted from Spirit of the Century SRD, v6.22.1)
+
+=== New Actions
+
+* *Armor of Fear.* You can use Provoke to defend against Fight attacks,
+but only until the first time you're dealt stress in a conflict. You can
+make your opponents hesitate to attack, but when someone shows them that
+you're only human your advantage disappears. (Fate Core, p.120)
+* *The Fight in the Dog.* You can use Provoke to enter the kinds of
+contests that you'd normally need Physique for, whenever your ability to
+psych your opponent out with the force of your presence alone would be a
+factor. (Fate Core, p.89)
+* *Imposing Attitude.* For some reason, people seem reluctant to
+disagree with you. Maybe it's your cologne. You may use Provoke instead
+of Rapport to defend attempts to damage your reputation. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Okay, Fine!* You can use Provoke in place of Empathy to learn a
+target's aspects, by bullying them until they reveal one to you. The
+target defends against this with Will. (If the GM thinks the aspect is
+particularly vulnerable to your hostile approach, you get a +2 bonus.)
+(Fate Core, p.120)
+* *Scary.* You are just someone people don't want to cross, and that's
+clear even to other intimidating folks. You may use Provoke instead of
+Will to defend against Provoke. (adapted from Spirit of the Century SRD,
+v6.16.2)
+* *The Serpent's Tongue.* (requires Subtle Menace.) It's hard not to
+talk to you. Not because you're approachable, but because it seems like
+such a bad idea not to. Fear makes people uncomfortable, and they
+occasionally let things slip they would not otherwise. You may use
+Provoke in place of Empathy or Rapport when trying to get information
+out of someone in a "softer" fashion. If successfully used in this way,
+the target is definitely rattled - so it certainly doesn't leave the
+target in the same pleasant state he might be left by one of those other
+skills. If used to read a character's emotional state, the aspects
+revealed are limited only to those which might be expressed in the
+language of fear. (adapted from Spirit of the Century SRD, v6.16.1)
+* *Tell Me or Else!* You don't ask nicely when there's stuff you need to
+know. You may roll Provoke instead of Contacts when you are gathering
+information from your informants. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Unapproachable.* It's difficult to try to manipulate someone when
+you're constantly reminded of how scary they are. You may use Provoke
+instead of Will to provide defend against create advantage actions made
+with Deceive, Empathy, or Rapport. (adapted from Spirit of the Century
+SRD, v6.16.1)
+
+=== Other
+
+* *Bad Cop.* Cruelty is more effective when given a basis for
+comparison. Once per scene, gain +2 to Provoke when invoking an aspect
+created by someone who has the Good Cop stunt. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Berate the Underlings.* +2 to create advantage or attack with Provoke
+when you interact with your subordinates. (Peter Blake)
+* *Favored Enemy Rattle.* Choose an organisation. You gain +2 to attack
+or create advantage with Provoke against members of that group. (Peter
+Blake)
+* *Not to Be Trifled With.* When you make it clear how dangerous you
+are, roll Provoke against your target's Will. If you succeed, that
+target will not attack you or willingly come near you unless you take
+action against him first. If you succeed with style, neither will anyone
+with a lower Will than your target. (Fate System Toolkit, p.35)
+* *Provoke Violence.* When you create an advantage on an opponent using
+Provoke, you can use your free invocation to become the target of that
+character's next relevant action, drawing their attention away from
+another target. (Fate Core, p.120)
+* *Scare 'Em Straight.* You are an authority figure. Part of your job is
+to put the fear of the law in potential miscreants. +2 to Provoke when
+using it to frighten someone under your authority (e.g. students for a
+teacher). (adapted from http://dfrpg-resources.wikispaces.com/Stunts)
+* *The Promise of Pain.* (requires Scary.) Once per conflict, you can
+force the opponent to use a mild consequence instead of a 2-point stress
+box on a successful Provoke attack. (adapted from Spirit of the Century
+SRD, v6.16.2)
+* *Steely Gaze.* (requires Scary.) Your unflinching gaze can lock an
+opponent in place. When you look an opponent in the eyes and
+successfully create an advantage with Provoke, both of you can only take
+Provoke actions against each other until one of you takes a consequence,
+concedes, or is interrupted (by, say, a gunshot). (adapted from Spirit
+of the Century SRD, v6.16.2)
+* *Street Talk.* +2 to Provoke when dealing with the inhabitants of
+slums. (Peter Blake)
+* *Torturer.* You have the complete lack of mercy that is needed to
+torture someone properly. Once per scene, when you force an opponent to
+take a consequence instead of mental stress, you can spend a fate point
+to increase the consequence's severity (so mild becomes moderate,
+moderate becomes severe). If your opponent was already going to take a
+severe consequence, he must either take a severe consequence and a
+second consequence or be taken out. (adapted from
+http://dfrpg-resources.wikispaces.com/Stunts)
+* *Wounds From a Friend.* It's hard to disbelieve what those closest to
+you tell you. While successfully impersonating someone, your successful
+Provoke attacks on their close associates inflict two additional stress.
+(adapted from http://dfrpg-resources.wikispaces.com/Stunts)
